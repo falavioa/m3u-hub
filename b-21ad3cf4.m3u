@@ -3,7 +3,7 @@
 http://ftspl26.com/live/falavioa/xu1577/354.ts
 #EXTINF:-1 tvg-id="Globo RBS TV Poa" tvg-name="Globo RS (RBS POA)" tvg-logo="http://lgfp.one/RUU4" group-title="1 · ABERTOS",Globo RS (RBS POA)
 http://ftspl26.com/live/falavioa/xu1577/364754.ts
-#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="Globo GO (Anhanguera)" tvg-logo="http://lgfp.one/ASD" group-title="1 · ABERTOS",Globo GO (Anhanguera)
+#EXTINF:-1 tvg-id="GloboTvAnhanguera.br" tvg-name="Globo GO (Anhanguera)" tvg-logo="http://lgfp.one/ASD" group-title="1 · ABERTOS",Globo GO (Anhanguera)
 http://ftspl26.com/live/falavioa/xu1577/366.ts
 #EXTINF:-1 tvg-id="TV Globo" tvg-name="Globo Nacional" tvg-logo="http://lgfp.one/VFB5" group-title="1 · ABERTOS",Globo Nacional
 http://ftspl26.com/live/falavioa/xu1577/360389.ts
@@ -33,7 +33,7 @@ http://ftspl26.com/live/falavioa/xu1577/123574.ts
 http://ftspl26.com/live/falavioa/xu1577/47.ts
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="http://lgfp.one/UXV6" group-title="1 · ABERTOS",TV Brasil
 http://ftspl26.com/live/falavioa/xu1577/329751.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV!" tvg-logo="http://lgfp.one/AGS" group-title="1 · ABERTOS",RedeTV!
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="http://lgfp.one/AGS" group-title="1 · ABERTOS",RedeTV!
 http://ftspl26.com/live/falavioa/xu1577/48.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Gazeta.HD.br" tvg-name="TV Gazeta SP" tvg-logo="http://lgfp.one/AGT" group-title="1 · ABERTOS",TV Gazeta SP
 http://ftspl26.com/live/falavioa/xu1577/49.ts
@@ -41,7 +41,7 @@ http://ftspl26.com/live/falavioa/xu1577/49.ts
 http://ftspl26.com/live/falavioa/xu1577/320390.ts
 #EXTINF:-1 tvg-id="TV Senado" tvg-name="TV Senado" tvg-logo="http://lgfp.one/AHP" group-title="1 · ABERTOS",TV Senado
 http://ftspl26.com/live/falavioa/xu1577/72.ts
-#EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV Justiça" tvg-logo="http://lgfp.one/UXW4" group-title="1 · ABERTOS",TV Justiça
+#EXTINF:-1 tvg-id="TV JUSTIÇA" tvg-name="TV Justiça" tvg-logo="http://lgfp.one/UXW4" group-title="1 · ABERTOS",TV Justiça
 http://ftspl26.com/live/falavioa/xu1577/358696.ts
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="http://lgfp.one/AYI" group-title="2 · ESPORTE",SporTV
 http://ftspl26.com/live/falavioa/xu1577/555.ts
@@ -73,13 +73,13 @@ http://ftspl26.com/live/falavioa/xu1577/526.ts
 http://ftspl26.com/live/falavioa/xu1577/527.ts
 #EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://lgfp.one/AXM" group-title="2 · ESPORTE",Premiere 5
 http://ftspl26.com/live/falavioa/xu1577/528.ts
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="http://lgfp.one/AXN" group-title="2 · ESPORTE",Premiere 6
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6" tvg-logo="http://lgfp.one/AXN" group-title="2 · ESPORTE",Premiere 6
 http://ftspl26.com/live/falavioa/xu1577/529.ts
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="http://lgfp.one/AXO" group-title="2 · ESPORTE",Premiere 7
+#EXTINF:-1 tvg-id="Premiere 7 HD" tvg-name="Premiere 7" tvg-logo="http://lgfp.one/AXO" group-title="2 · ESPORTE",Premiere 7
 http://ftspl26.com/live/falavioa/xu1577/530.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://lgfp.one/JYV1" group-title="2 · ESPORTE",Premiere 8
+#EXTINF:-1 tvg-id="Premiere 8 HD" tvg-name="Premiere 8" tvg-logo="http://lgfp.one/JYV1" group-title="2 · ESPORTE",Premiere 8
 http://ftspl26.com/live/falavioa/xu1577/329730.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes" tvg-logo="http://lgfp.one/AXI" group-title="2 · ESPORTE",Premiere Clubes
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://lgfp.one/AXI" group-title="2 · ESPORTE",Premiere Clubes
 http://ftspl26.com/live/falavioa/xu1577/524.ts
 #EXTINF:-1 tvg-id="" tvg-name="Premiere Mosaico" tvg-logo="http://lgfp.one/AXJ" group-title="2 · ESPORTE",Premiere Mosaico
 http://ftspl26.com/live/falavioa/xu1577/333838.ts
@@ -127,9 +127,9 @@ http://ftspl26.com/live/falavioa/xu1577/234049.ts
 http://ftspl26.com/live/falavioa/xu1577/234038.ts
 #EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="http://lgfp.one/AWY" group-title="3 · NOTÍCIAS",Globo News
 http://ftspl26.com/live/falavioa/xu1577/512.ts
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil" tvg-logo="http://lgfp.one/AWZ" group-title="3 · NOTÍCIAS",CNN Brasil
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil" tvg-logo="http://lgfp.one/AWZ" group-title="3 · NOTÍCIAS",CNN Brasil
 http://ftspl26.com/live/falavioa/xu1577/513.ts
-#EXTINF:-1 tvg-id="cnn.brasil.money.br" tvg-name="CNN Brasil Money" tvg-logo="http://lgfp.one/EGO9" group-title="3 · NOTÍCIAS",CNN Brasil Money
+#EXTINF:-1 tvg-id="CNN Brasil Money" tvg-name="CNN Brasil Money" tvg-logo="http://lgfp.one/EGO9" group-title="3 · NOTÍCIAS",CNN Brasil Money
 http://ftspl26.com/live/falavioa/xu1577/249504.ts
 #EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="http://lgfp.one/AWW" group-title="3 · NOTÍCIAS",Band News
 http://ftspl26.com/live/falavioa/xu1577/510.ts
@@ -137,7 +137,7 @@ http://ftspl26.com/live/falavioa/xu1577/510.ts
 http://ftspl26.com/live/falavioa/xu1577/511.ts
 #EXTINF:-1 tvg-id="SBT News" tvg-name="SBT News" tvg-logo="http://lgfp.one/RCL8" group-title="3 · NOTÍCIAS",SBT News
 http://ftspl26.com/live/falavioa/xu1577/348108.ts
-#EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-name="Jovem Pan News" tvg-logo="http://lgfp.one/VPE" group-title="3 · NOTÍCIAS",Jovem Pan News
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News" tvg-logo="http://lgfp.one/VPE" group-title="3 · NOTÍCIAS",Jovem Pan News
 http://ftspl26.com/live/falavioa/xu1577/98166.ts
 #EXTINF:-1 tvg-id="times.exclusivo.cnbc.br" tvg-name="CNBC Brasil" tvg-logo="http://lgfp.one/PDG7" group-title="3 · NOTÍCIAS",CNBC Brasil
 http://ftspl26.com/live/falavioa/xu1577/316223.ts
@@ -163,19 +163,19 @@ http://ftspl26.com/live/falavioa/xu1577/470.ts
 http://ftspl26.com/live/falavioa/xu1577/464.ts
 #EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="http://lgfp.one/AVF" group-title="4 · FILMES E SÉRIES",HBO Plus
 http://ftspl26.com/live/falavioa/xu1577/465.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO Pop" tvg-logo="http://lgfp.one/AVJ" group-title="4 · FILMES E SÉRIES",HBO Pop
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop" tvg-logo="http://lgfp.one/AVJ" group-title="4 · FILMES E SÉRIES",HBO Pop
 http://ftspl26.com/live/falavioa/xu1577/469.ts
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://lgfp.one/AVG" group-title="4 · FILMES E SÉRIES",HBO Signature
 http://ftspl26.com/live/falavioa/xu1577/466.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO Xtreme" tvg-logo="http://lgfp.one/AVI" group-title="4 · FILMES E SÉRIES",HBO Xtreme
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme" tvg-logo="http://lgfp.one/AVI" group-title="4 · FILMES E SÉRIES",HBO Xtreme
 http://ftspl26.com/live/falavioa/xu1577/468.ts
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi" tvg-logo="http://lgfp.one/AVH" group-title="4 · FILMES E SÉRIES",HBO Mundi
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi" tvg-logo="http://lgfp.one/AVH" group-title="4 · FILMES E SÉRIES",HBO Mundi
 http://ftspl26.com/live/falavioa/xu1577/467.ts
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://lgfp.one/APK" group-title="4 · FILMES E SÉRIES",TNT
 http://ftspl26.com/live/falavioa/xu1577/287.ts
 #EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries" tvg-logo="http://lgfp.one/APL" group-title="4 · FILMES E SÉRIES",TNT Séries
 http://ftspl26.com/live/falavioa/xu1577/288.ts
-#EXTINF:-1 tvg-id="tnt.novelas.br" tvg-name="TNT Novelas" tvg-logo="http://lgfp.one/AAKT" group-title="4 · FILMES E SÉRIES",TNT Novelas
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" tvg-logo="http://lgfp.one/AAKT" group-title="4 · FILMES E SÉRIES",TNT Novelas
 http://ftspl26.com/live/falavioa/xu1577/148424.ts
 #EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="http://lgfp.one/APE" group-title="4 · FILMES E SÉRIES",Megapix
 http://ftspl26.com/live/falavioa/xu1577/281.ts
@@ -183,13 +183,13 @@ http://ftspl26.com/live/falavioa/xu1577/281.ts
 http://ftspl26.com/live/falavioa/xu1577/290.ts
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://lgfp.one/APG" group-title="4 · FILMES E SÉRIES",Studio Universal
 http://ftspl26.com/live/falavioa/xu1577/283.ts
-#EXTINF:-1 tvg-id="universal.premiere.br" tvg-name="Universal Premiere" tvg-logo="http://lgfp.one/OOL2" group-title="4 · FILMES E SÉRIES",Universal Premiere
+#EXTINF:-1 tvg-id="Universal Premiere" tvg-name="Universal Premiere" tvg-logo="http://lgfp.one/OOL2" group-title="4 · FILMES E SÉRIES",Universal Premiere
 http://ftspl26.com/live/falavioa/xu1577/302968.ts
-#EXTINF:-1 tvg-id="universal.reality.br" tvg-name="Universal Reality" tvg-logo="http://lgfp.one/OOL3" group-title="4 · FILMES E SÉRIES",Universal Reality
+#EXTINF:-1 tvg-id="Universal Reality" tvg-name="Universal Reality" tvg-logo="http://lgfp.one/OOL3" group-title="4 · FILMES E SÉRIES",Universal Reality
 http://ftspl26.com/live/falavioa/xu1577/303140.ts
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://lgfp.one/WGS" group-title="4 · FILMES E SÉRIES",AMC
 http://ftspl26.com/live/falavioa/xu1577/294.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC Series" tvg-logo="http://lgfp.one/XDA3" group-title="4 · FILMES E SÉRIES",AMC Series
+#EXTINF:-1 tvg-id="AmcSeries.br" tvg-name="AMC Series" tvg-logo="http://lgfp.one/XDA3" group-title="4 · FILMES E SÉRIES",AMC Series
 http://ftspl26.com/live/falavioa/xu1577/438399.ts
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://lgfp.one/APR" group-title="4 · FILMES E SÉRIES",AXN
 http://ftspl26.com/live/falavioa/xu1577/295.ts
@@ -197,13 +197,13 @@ http://ftspl26.com/live/falavioa/xu1577/295.ts
 http://ftspl26.com/live/falavioa/xu1577/297.ts
 #EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="http://lgfp.one/AOX" group-title="4 · FILMES E SÉRIES",Sony Channel
 http://ftspl26.com/live/falavioa/xu1577/274.ts
-#EXTINF:-1 tvg-id="Sony.Movies.Brazil.br" tvg-name="Sony Movies" tvg-logo="http://lgfp.one/QEB4" group-title="4 · FILMES E SÉRIES",Sony Movies
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" tvg-logo="http://lgfp.one/QEB4" group-title="4 · FILMES E SÉRIES",Sony Movies
 http://ftspl26.com/live/falavioa/xu1577/333832.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sony One Classics" tvg-logo="http://lgfp.one/ROJ9" group-title="4 · FILMES E SÉRIES",Sony One Classics
 http://ftspl26.com/live/falavioa/xu1577/357903.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sony One Emoções" tvg-logo="http://lgfp.one/SPW0" group-title="4 · FILMES E SÉRIES",Sony One Emoções
 http://ftspl26.com/live/falavioa/xu1577/381436.ts
-#EXTINF:-1 tvg-id="SPACE" tvg-name="Space" tvg-logo="http://lgfp.one/APF" group-title="4 · FILMES E SÉRIES",Space
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://lgfp.one/APF" group-title="4 · FILMES E SÉRIES",Space
 http://ftspl26.com/live/falavioa/xu1577/282.ts
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://lgfp.one/API" group-title="4 · FILMES E SÉRIES",TBS
 http://ftspl26.com/live/falavioa/xu1577/285.ts
@@ -227,21 +227,21 @@ http://ftspl26.com/live/falavioa/xu1577/357758.ts
 http://ftspl26.com/live/falavioa/xu1577/3.ts
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://lgfp.one/AIT" group-title="5 · VARIEDADES",GNT
 http://ftspl26.com/live/falavioa/xu1577/102.ts
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA" tvg-logo="http://lgfp.one/VMF" group-title="5 · VARIEDADES",VIVA
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA" tvg-logo="http://lgfp.one/VMF" group-title="5 · VARIEDADES",VIVA
 http://ftspl26.com/live/falavioa/xu1577/105.ts
 #EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF" tvg-logo="http://lgfp.one/AOD" group-title="5 · VARIEDADES",OFF
 http://ftspl26.com/live/falavioa/xu1577/253.ts
 #EXTINF:-1 tvg-id="Modo Viagem" tvg-name="Modo Viagem" tvg-logo="http://lgfp.one/VMT" group-title="5 · VARIEDADES",Modo Viagem
 http://ftspl26.com/live/falavioa/xu1577/103.ts
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta!" tvg-logo="http://lgfp.one/AIP" group-title="5 · VARIEDADES",Curta!
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="http://lgfp.one/AIP" group-title="5 · VARIEDADES",Curta!
 http://ftspl26.com/live/falavioa/xu1577/98.ts
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://lgfp.one/AKZ" group-title="5 · VARIEDADES",Arte 1
 http://ftspl26.com/live/falavioa/xu1577/165.ts
-#EXTINF:-1 tvg-id="fish.br" tvg-name="Fish TV" tvg-logo="http://lgfp.one/AIR" group-title="5 · VARIEDADES",Fish TV
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://lgfp.one/AIR" group-title="5 · VARIEDADES",Fish TV
 http://ftspl26.com/live/falavioa/xu1577/100.ts
-#EXTINF:-1 tvg-id="food.network.hd.brasil.br" tvg-name="Food Network" tvg-logo="http://lgfp.one/AIS" group-title="5 · VARIEDADES",Food Network
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://lgfp.one/AIS" group-title="5 · VARIEDADES",Food Network
 http://ftspl26.com/live/falavioa/xu1577/101.ts
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV" tvg-logo="http://lgfp.one/ALB" group-title="5 · VARIEDADES",HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://lgfp.one/ALB" group-title="5 · VARIEDADES",HGTV
 http://ftspl26.com/live/falavioa/xu1577/167.ts
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://lgfp.one/APJ" group-title="5 · VARIEDADES",TLC
 http://ftspl26.com/live/falavioa/xu1577/286.ts
@@ -249,9 +249,9 @@ http://ftspl26.com/live/falavioa/xu1577/286.ts
 http://ftspl26.com/live/falavioa/xu1577/99.ts
 #EXTINF:-1 tvg-id="Bis" tvg-name="BIS" tvg-logo="http://lgfp.one/ONP" group-title="5 · VARIEDADES",BIS
 http://ftspl26.com/live/falavioa/xu1577/5.ts
-#EXTINF:-1 tvg-id="music.box.brazil.br" tvg-name="Music Box Brasil" tvg-logo="http://lgfp.one/VAI" group-title="5 · VARIEDADES",Music Box Brasil
+#EXTINF:-1 tvg-id="Music Box Brasil" tvg-name="Music Box Brasil" tvg-logo="http://lgfp.one/VAI" group-title="5 · VARIEDADES",Music Box Brasil
 http://ftspl26.com/live/falavioa/xu1577/4.ts
-#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="Trace Brazuca" tvg-logo="http://lgfp.one/VAQ" group-title="5 · VARIEDADES",Trace Brazuca
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca" tvg-logo="http://lgfp.one/VAQ" group-title="5 · VARIEDADES",Trace Brazuca
 http://ftspl26.com/live/falavioa/xu1577/50878.ts
 #EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="http://lgfp.one/WWR3" group-title="5 · VARIEDADES",Trace Urban
 http://ftspl26.com/live/falavioa/xu1577/435663.ts
@@ -261,9 +261,9 @@ http://ftspl26.com/live/falavioa/xu1577/358397.ts
 http://ftspl26.com/live/falavioa/xu1577/43.ts
 #EXTINF:-1 tvg-id="chef.br" tvg-name="Chef TV+" tvg-logo="http://lgfp.one/QEB1" group-title="5 · VARIEDADES",Chef TV+
 http://ftspl26.com/live/falavioa/xu1577/333828.ts
-#EXTINF:-1 tvg-id="Sabor.&.Arte.br" tvg-name="Sabor e Arte" tvg-logo="http://lgfp.one/DYS2" group-title="5 · VARIEDADES",Sabor e Arte
+#EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="Sabor e Arte" tvg-logo="http://lgfp.one/DYS2" group-title="5 · VARIEDADES",Sabor e Arte
 http://ftspl26.com/live/falavioa/xu1577/127312.ts
-#EXTINF:-1 tvg-id="" tvg-name="Receitas Fast" tvg-logo="" group-title="5 · VARIEDADES",Receitas Fast
+#EXTINF:-1 tvg-id="ReceitasFast.br" tvg-name="Receitas Fast" tvg-logo="" group-title="5 · VARIEDADES",Receitas Fast
 http://ftspl26.com/live/falavioa/xu1577/357603.ts
 #EXTINF:-1 tvg-id="Travel Box Brasil" tvg-name="Travel Box Brasil" tvg-logo="http://lgfp.one/VMN" group-title="5 · VARIEDADES",Travel Box Brasil
 http://ftspl26.com/live/falavioa/xu1577/50882.ts
@@ -271,13 +271,13 @@ http://ftspl26.com/live/falavioa/xu1577/50882.ts
 http://ftspl26.com/live/falavioa/xu1577/364751.ts
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://lgfp.one/AJP" group-title="6 · INFANTIL",Cartoon Network
 http://ftspl26.com/live/falavioa/xu1577/126.ts
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito" tvg-logo="http://lgfp.one/AJO" group-title="6 · INFANTIL",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="http://lgfp.one/AJO" group-title="6 · INFANTIL",Cartoonito
 http://ftspl26.com/live/falavioa/xu1577/125.ts
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://lgfp.one/AJQ" group-title="6 · INFANTIL",Discovery Kids
 http://ftspl26.com/live/falavioa/xu1577/127.ts
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://lgfp.one/AJZ" group-title="6 · INFANTIL",Gloob
 http://ftspl26.com/live/falavioa/xu1577/136.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Gloobinho.HD.br" tvg-name="Gloobinho" tvg-logo="http://lgfp.one/AJR" group-title="6 · INFANTIL",Gloobinho
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho" tvg-logo="http://lgfp.one/AJR" group-title="6 · INFANTIL",Gloobinho
 http://ftspl26.com/live/falavioa/xu1577/128.ts
 #EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="Nick Jr" tvg-logo="http://lgfp.one/ROR8" group-title="6 · INFANTIL",Nick Jr
 http://ftspl26.com/live/falavioa/xu1577/358075.ts
@@ -291,11 +291,11 @@ http://ftspl26.com/live/falavioa/xu1577/358317.ts
 http://ftspl26.com/live/falavioa/xu1577/357595.ts
 #EXTINF:-1 tvg-id="" tvg-name="Play Kids" tvg-logo="http://lgfp.one/QCY3" group-title="6 · INFANTIL",Play Kids
 http://ftspl26.com/live/falavioa/xu1577/333103.ts
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo" tvg-logo="http://lgfp.one/UJO2" group-title="6 · INFANTIL",ZooMoo
+#EXTINF:-1 tvg-id="Zoomoo" tvg-name="ZooMoo" tvg-logo="http://lgfp.one/UJO2" group-title="6 · INFANTIL",ZooMoo
 http://ftspl26.com/live/falavioa/xu1577/407762.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..ZooMoo.HD.br" tvg-name="DumDum" tvg-logo="http://lgfp.one/WJI" group-title="6 · INFANTIL",DumDum
+#EXTINF:-1 tvg-id="DumDum" tvg-name="DumDum" tvg-logo="http://lgfp.one/WJI" group-title="6 · INFANTIL",DumDum
 http://ftspl26.com/live/falavioa/xu1577/108988.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..TV.Rá.Tim.Bum.br" tvg-name="TV Rá-Tim-Bum" tvg-logo="http://lgfp.one/WIZ" group-title="6 · INFANTIL",TV Rá-Tim-Bum
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV Rá-Tim-Bum" tvg-logo="http://lgfp.one/WIZ" group-title="6 · INFANTIL",TV Rá-Tim-Bum
 http://ftspl26.com/live/falavioa/xu1577/30265.ts
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://lgfp.one/ALA" group-title="7 · DOCUMENTÁRIOS",Discovery Channel
 http://ftspl26.com/live/falavioa/xu1577/166.ts
@@ -311,19 +311,19 @@ http://ftspl26.com/live/falavioa/xu1577/171.ts
 http://ftspl26.com/live/falavioa/xu1577/172.ts
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery" tvg-logo="http://lgfp.one/WJJ" group-title="7 · DOCUMENTÁRIOS",Investigation Discovery
 http://ftspl26.com/live/falavioa/xu1577/175.ts
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://lgfp.one/ALI" group-title="7 · DOCUMENTÁRIOS",History
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History" tvg-logo="http://lgfp.one/ALI" group-title="7 · DOCUMENTÁRIOS",History
 http://ftspl26.com/live/falavioa/xu1577/174.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..History.2.HD.br" tvg-name="History 2" tvg-logo="http://lgfp.one/ALH" group-title="7 · DOCUMENTÁRIOS",History 2
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="http://lgfp.one/ALH" group-title="7 · DOCUMENTÁRIOS",History 2
 http://ftspl26.com/live/falavioa/xu1577/173.ts
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://lgfp.one/AKY" group-title="7 · DOCUMENTÁRIOS",Animal Planet
 http://ftspl26.com/live/falavioa/xu1577/164.ts
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="http://lgfp.one/DYS9" group-title="7 · DOCUMENTÁRIOS",Canal Rural
 http://ftspl26.com/live/falavioa/xu1577/234102.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.HD..br" tvg-name="AgroMais" tvg-logo="http://lgfp.one/PVX3" group-title="7 · DOCUMENTÁRIOS",AgroMais
+#EXTINF:-1 tvg-id="AgroMais" tvg-name="AgroMais" tvg-logo="http://lgfp.one/PVX3" group-title="7 · DOCUMENTÁRIOS",AgroMais
 http://ftspl26.com/live/falavioa/xu1577/326746.ts
 #EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://lgfp.one/PTF0" group-title="7 · DOCUMENTÁRIOS",Terra Viva
 http://ftspl26.com/live/falavioa/xu1577/325223.ts
-#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV Escola" tvg-logo="http://lgfp.one/RPG4" group-title="7 · DOCUMENTÁRIOS",TV Escola
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola" tvg-logo="http://lgfp.one/RPG4" group-title="7 · DOCUMENTÁRIOS",TV Escola
 http://ftspl26.com/live/falavioa/xu1577/358701.ts
 #EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="http://lgfp.one/JZA2" group-title="7 · DOCUMENTÁRIOS",Canal do Boi
 http://ftspl26.com/live/falavioa/xu1577/199614.ts
@@ -331,7 +331,7 @@ http://ftspl26.com/live/falavioa/xu1577/199614.ts
 http://ftspl26.com/live/falavioa/xu1577/30205.ts
 #EXTINF:-1 tvg-id="Globo RBS TV Poa" tvg-name="Globo RS (RBS POA) (alt)" tvg-logo="http://lgfp.one/ASC" group-title="HUB",Globo RS (RBS POA) (alt)
 http://ftspl26.com/live/falavioa/xu1577/365.ts
-#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="Globo GO (Anhanguera) (alt)" tvg-logo="http://lgfp.one/ATB" group-title="HUB",Globo GO (Anhanguera) (alt)
+#EXTINF:-1 tvg-id="GloboTvAnhanguera.br" tvg-name="Globo GO (Anhanguera) (alt)" tvg-logo="http://lgfp.one/ATB" group-title="HUB",Globo GO (Anhanguera) (alt)
 http://ftspl26.com/live/falavioa/xu1577/395.ts
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT (alt)" tvg-logo="http://lgfp.one/SGW6" group-title="HUB",SBT (alt)
 http://ftspl26.com/live/falavioa/xu1577/358386.ts
@@ -357,7 +357,7 @@ http://ftspl26.com/live/falavioa/xu1577/123575.ts
 http://ftspl26.com/live/falavioa/xu1577/64.ts
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil (alt)" tvg-logo="http://lgfp.one/QAZ3" group-title="HUB",TV Brasil (alt)
 http://ftspl26.com/live/falavioa/xu1577/330696.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV! (alt)" tvg-logo="http://lgfp.one/VAZ" group-title="HUB",RedeTV! (alt)
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV! (alt)" tvg-logo="http://lgfp.one/VAZ" group-title="HUB",RedeTV! (alt)
 http://ftspl26.com/live/falavioa/xu1577/30180.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Gazeta.HD.br" tvg-name="TV Gazeta SP (alt)" tvg-logo="http://lgfp.one/ONU" group-title="HUB",TV Gazeta SP (alt)
 http://ftspl26.com/live/falavioa/xu1577/30189.ts
@@ -391,13 +391,13 @@ http://ftspl26.com/live/falavioa/xu1577/30285.ts
 http://ftspl26.com/live/falavioa/xu1577/30288.ts
 #EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 (alt)" tvg-logo="http://lgfp.one/VSZ" group-title="HUB",Premiere 5 (alt)
 http://ftspl26.com/live/falavioa/xu1577/30286.ts
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 (alt)" tvg-logo="http://lgfp.one/VTC" group-title="HUB",Premiere 6 (alt)
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 (alt)" tvg-logo="http://lgfp.one/VTC" group-title="HUB",Premiere 6 (alt)
 http://ftspl26.com/live/falavioa/xu1577/30289.ts
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 (alt)" tvg-logo="http://lgfp.one/VTD" group-title="HUB",Premiere 7 (alt)
+#EXTINF:-1 tvg-id="Premiere 7 HD" tvg-name="Premiere 7 (alt)" tvg-logo="http://lgfp.one/VTD" group-title="HUB",Premiere 7 (alt)
 http://ftspl26.com/live/falavioa/xu1577/30290.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 (alt)" tvg-logo="http://lgfp.one/JYV1" group-title="HUB",Premiere 8 (alt)
+#EXTINF:-1 tvg-id="Premiere 8 HD" tvg-name="Premiere 8 (alt)" tvg-logo="http://lgfp.one/JYV1" group-title="HUB",Premiere 8 (alt)
 http://ftspl26.com/live/falavioa/xu1577/329731.ts
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes (alt)" tvg-logo="http://lgfp.one/VTA" group-title="HUB",Premiere Clubes (alt)
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes (alt)" tvg-logo="http://lgfp.one/VTA" group-title="HUB",Premiere Clubes (alt)
 http://ftspl26.com/live/falavioa/xu1577/30287.ts
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate (alt)" tvg-logo="http://lgfp.one/WJZ" group-title="HUB",Combate (alt)
 http://ftspl26.com/live/falavioa/xu1577/30276.ts
@@ -421,9 +421,9 @@ http://ftspl26.com/live/falavioa/xu1577/116346.ts
 http://ftspl26.com/live/falavioa/xu1577/364742.ts
 #EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News (alt)" tvg-logo="http://lgfp.one/VNB" group-title="HUB",Globo News (alt)
 http://ftspl26.com/live/falavioa/xu1577/30196.ts
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil (alt)" tvg-logo="http://lgfp.one/VND" group-title="HUB",CNN Brasil (alt)
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil (alt)" tvg-logo="http://lgfp.one/VND" group-title="HUB",CNN Brasil (alt)
 http://ftspl26.com/live/falavioa/xu1577/30198.ts
-#EXTINF:-1 tvg-id="cnn.brasil.money.br" tvg-name="CNN Brasil Money (alt)" tvg-logo="http://lgfp.one/EGO9" group-title="HUB",CNN Brasil Money (alt)
+#EXTINF:-1 tvg-id="CNN Brasil Money" tvg-name="CNN Brasil Money (alt)" tvg-logo="http://lgfp.one/EGO9" group-title="HUB",CNN Brasil Money (alt)
 http://ftspl26.com/live/falavioa/xu1577/251746.ts
 #EXTINF:-1 tvg-id="Band News" tvg-name="Band News (alt)" tvg-logo="http://lgfp.one/VNA" group-title="HUB",Band News (alt)
 http://ftspl26.com/live/falavioa/xu1577/30195.ts
@@ -431,7 +431,7 @@ http://ftspl26.com/live/falavioa/xu1577/30195.ts
 http://ftspl26.com/live/falavioa/xu1577/30197.ts
 #EXTINF:-1 tvg-id="SBT News" tvg-name="SBT News (alt)" tvg-logo="http://lgfp.one/RCL8" group-title="HUB",SBT News (alt)
 http://ftspl26.com/live/falavioa/xu1577/348109.ts
-#EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-name="Jovem Pan News (alt)" tvg-logo="http://lgfp.one/VPF" group-title="HUB",Jovem Pan News (alt)
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News (alt)" tvg-logo="http://lgfp.one/VPF" group-title="HUB",Jovem Pan News (alt)
 http://ftspl26.com/live/falavioa/xu1577/98167.ts
 #EXTINF:-1 tvg-id="times.exclusivo.cnbc.br" tvg-name="CNBC Brasil (alt)" tvg-logo="http://lgfp.one/PDG7" group-title="HUB",CNBC Brasil (alt)
 http://ftspl26.com/live/falavioa/xu1577/329749.ts
@@ -455,19 +455,19 @@ http://ftspl26.com/live/falavioa/xu1577/30234.ts
 http://ftspl26.com/live/falavioa/xu1577/30235.ts
 #EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus (alt)" tvg-logo="http://lgfp.one/VSN" group-title="HUB",HBO Plus (alt)
 http://ftspl26.com/live/falavioa/xu1577/30237.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.POP.HD.br" tvg-name="HBO Pop (alt)" tvg-logo="http://lgfp.one/WHN" group-title="HUB",HBO Pop (alt)
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop (alt)" tvg-logo="http://lgfp.one/WHN" group-title="HUB",HBO Pop (alt)
 http://ftspl26.com/live/falavioa/xu1577/30241.ts
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature (alt)" tvg-logo="http://lgfp.one/VSO" group-title="HUB",HBO Signature (alt)
 http://ftspl26.com/live/falavioa/xu1577/30238.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..HBO.Xtreme.HD.br" tvg-name="HBO Xtreme (alt)" tvg-logo="http://lgfp.one/WHM" group-title="HUB",HBO Xtreme (alt)
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme (alt)" tvg-logo="http://lgfp.one/WHM" group-title="HUB",HBO Xtreme (alt)
 http://ftspl26.com/live/falavioa/xu1577/30240.ts
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi (alt)" tvg-logo="http://lgfp.one/VSP" group-title="HUB",HBO Mundi (alt)
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi (alt)" tvg-logo="http://lgfp.one/VSP" group-title="HUB",HBO Mundi (alt)
 http://ftspl26.com/live/falavioa/xu1577/30239.ts
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT (alt)" tvg-logo="http://lgfp.one/WHG" group-title="HUB",TNT (alt)
 http://ftspl26.com/live/falavioa/xu1577/30224.ts
 #EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries (alt)" tvg-logo="http://lgfp.one/WHH" group-title="HUB",TNT Séries (alt)
 http://ftspl26.com/live/falavioa/xu1577/30225.ts
-#EXTINF:-1 tvg-id="tnt.novelas.br" tvg-name="TNT Novelas (alt)" tvg-logo="http://lgfp.one/OOK6" group-title="HUB",TNT Novelas (alt)
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas (alt)" tvg-logo="http://lgfp.one/OOK6" group-title="HUB",TNT Novelas (alt)
 http://ftspl26.com/live/falavioa/xu1577/439439.ts
 #EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix (alt)" tvg-logo="http://lgfp.one/WHC" group-title="HUB",Megapix (alt)
 http://ftspl26.com/live/falavioa/xu1577/30218.ts
@@ -477,7 +477,7 @@ http://ftspl26.com/live/falavioa/xu1577/30230.ts
 http://ftspl26.com/live/falavioa/xu1577/30221.ts
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC (alt)" tvg-logo="http://lgfp.one/WHJ" group-title="HUB",AMC (alt)
 http://ftspl26.com/live/falavioa/xu1577/30228.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC Series (alt)" tvg-logo="http://lgfp.one/XDA2" group-title="HUB",AMC Series (alt)
+#EXTINF:-1 tvg-id="AmcSeries.br" tvg-name="AMC Series (alt)" tvg-logo="http://lgfp.one/XDA2" group-title="HUB",AMC Series (alt)
 http://ftspl26.com/live/falavioa/xu1577/438398.ts
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN (alt)" tvg-logo="http://lgfp.one/WGX" group-title="HUB",AXN (alt)
 http://ftspl26.com/live/falavioa/xu1577/30206.ts
@@ -485,7 +485,7 @@ http://ftspl26.com/live/falavioa/xu1577/30206.ts
 http://ftspl26.com/live/falavioa/xu1577/30226.ts
 #EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel (alt)" tvg-logo="http://lgfp.one/WJN" group-title="HUB",Sony Channel (alt)
 http://ftspl26.com/live/falavioa/xu1577/30216.ts
-#EXTINF:-1 tvg-id="SPACE" tvg-name="Space (alt)" tvg-logo="http://lgfp.one/WHA" group-title="HUB",Space (alt)
+#EXTINF:-1 tvg-id="Space" tvg-name="Space (alt)" tvg-logo="http://lgfp.one/WHA" group-title="HUB",Space (alt)
 http://ftspl26.com/live/falavioa/xu1577/30214.ts
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS (alt)" tvg-logo="http://lgfp.one/WHF" group-title="HUB",TBS (alt)
 http://ftspl26.com/live/falavioa/xu1577/30223.ts
@@ -507,21 +507,21 @@ http://ftspl26.com/live/falavioa/xu1577/30217.ts
 http://ftspl26.com/live/falavioa/xu1577/30173.ts
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT (alt)" tvg-logo="http://lgfp.one/VMX" group-title="HUB",GNT (alt)
 http://ftspl26.com/live/falavioa/xu1577/30187.ts
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA (alt)" tvg-logo="http://lgfp.one/VMI" group-title="HUB",VIVA (alt)
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA (alt)" tvg-logo="http://lgfp.one/VMI" group-title="HUB",VIVA (alt)
 http://ftspl26.com/live/falavioa/xu1577/30298.ts
 #EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF (alt)" tvg-logo="http://lgfp.one/WKC" group-title="HUB",OFF (alt)
 http://ftspl26.com/live/falavioa/xu1577/30279.ts
 #EXTINF:-1 tvg-id="Modo Viagem" tvg-name="Modo Viagem (alt)" tvg-logo="http://lgfp.one/VMZ" group-title="HUB",Modo Viagem (alt)
 http://ftspl26.com/live/falavioa/xu1577/30194.ts
-#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! (alt)" tvg-logo="http://lgfp.one/VRB" group-title="HUB",Curta! (alt)
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! (alt)" tvg-logo="http://lgfp.one/VRB" group-title="HUB",Curta! (alt)
 http://ftspl26.com/live/falavioa/xu1577/30192.ts
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 (alt)" tvg-logo="http://lgfp.one/WHP" group-title="HUB",Arte 1 (alt)
 http://ftspl26.com/live/falavioa/xu1577/30249.ts
-#EXTINF:-1 tvg-id="fish.br" tvg-name="Fish TV (alt)" tvg-logo="http://lgfp.one/VMW" group-title="HUB",Fish TV (alt)
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV (alt)" tvg-logo="http://lgfp.one/VMW" group-title="HUB",Fish TV (alt)
 http://ftspl26.com/live/falavioa/xu1577/30185.ts
-#EXTINF:-1 tvg-id="food.network.hd.brasil.br" tvg-name="Food Network (alt)" tvg-logo="http://lgfp.one/VMY" group-title="HUB",Food Network (alt)
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network (alt)" tvg-logo="http://lgfp.one/VMY" group-title="HUB",Food Network (alt)
 http://ftspl26.com/live/falavioa/xu1577/30193.ts
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV (alt)" tvg-logo="http://lgfp.one/WJT" group-title="HUB",HGTV (alt)
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV (alt)" tvg-logo="http://lgfp.one/WJT" group-title="HUB",HGTV (alt)
 http://ftspl26.com/live/falavioa/xu1577/30253.ts
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC (alt)" tvg-logo="http://lgfp.one/WHK" group-title="HUB",TLC (alt)
 http://ftspl26.com/live/falavioa/xu1577/30229.ts
@@ -529,15 +529,15 @@ http://ftspl26.com/live/falavioa/xu1577/30229.ts
 http://ftspl26.com/live/falavioa/xu1577/30186.ts
 #EXTINF:-1 tvg-id="Bis" tvg-name="BIS (alt)" tvg-logo="http://lgfp.one/ONP" group-title="HUB",BIS (alt)
 http://ftspl26.com/live/falavioa/xu1577/331450.ts
-#EXTINF:-1 tvg-id="music.box.brazil.br" tvg-name="Music Box Brasil (alt)" tvg-logo="http://lgfp.one/VAP" group-title="HUB",Music Box Brasil (alt)
+#EXTINF:-1 tvg-id="Music Box Brasil" tvg-name="Music Box Brasil (alt)" tvg-logo="http://lgfp.one/VAP" group-title="HUB",Music Box Brasil (alt)
 http://ftspl26.com/live/falavioa/xu1577/30176.ts
-#EXTINF:-1 tvg-id="trace.brazuca.br" tvg-name="Trace Brazuca (alt)" tvg-logo="" group-title="HUB",Trace Brazuca (alt)
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="Trace Brazuca (alt)" tvg-logo="" group-title="HUB",Trace Brazuca (alt)
 http://ftspl26.com/live/falavioa/xu1577/231855.ts
 #EXTINF:-1 tvg-id="" tvg-name="Trace Urban (alt)" tvg-logo="" group-title="HUB",Trace Urban (alt)
 http://ftspl26.com/live/falavioa/xu1577/375002.ts
 #EXTINF:-1 tvg-id="Futura" tvg-name="Futura (alt)" tvg-logo="http://lgfp.one/VCE" group-title="HUB",Futura (alt)
 http://ftspl26.com/live/falavioa/xu1577/30182.ts
-#EXTINF:-1 tvg-id="Sabor.&.Arte.br" tvg-name="Sabor e Arte (alt)" tvg-logo="http://lgfp.one/AAME" group-title="HUB",Sabor e Arte (alt)
+#EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="Sabor e Arte (alt)" tvg-logo="http://lgfp.one/AAME" group-title="HUB",Sabor e Arte (alt)
 http://ftspl26.com/live/falavioa/xu1577/330705.ts
 #EXTINF:-1 tvg-id="Travel Box Brasil" tvg-name="Travel Box Brasil (alt)" tvg-logo="http://lgfp.one/VMK" group-title="HUB",Travel Box Brasil (alt)
 http://ftspl26.com/live/falavioa/xu1577/50836.ts
@@ -545,19 +545,19 @@ http://ftspl26.com/live/falavioa/xu1577/50836.ts
 http://ftspl26.com/live/falavioa/xu1577/331293.ts
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network (alt)" tvg-logo="http://lgfp.one/WHT" group-title="HUB",Cartoon Network (alt)
 http://ftspl26.com/live/falavioa/xu1577/30268.ts
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito (alt)" tvg-logo="http://lgfp.one/WJB" group-title="HUB",Cartoonito (alt)
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito (alt)" tvg-logo="http://lgfp.one/WJB" group-title="HUB",Cartoonito (alt)
 http://ftspl26.com/live/falavioa/xu1577/30267.ts
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids (alt)" tvg-logo="http://lgfp.one/WHU" group-title="HUB",Discovery Kids (alt)
 http://ftspl26.com/live/falavioa/xu1577/30269.ts
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob (alt)" tvg-logo="http://lgfp.one/WJA" group-title="HUB",Gloob (alt)
 http://ftspl26.com/live/falavioa/xu1577/30266.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Gloobinho.HD.br" tvg-name="Gloobinho (alt)" tvg-logo="http://lgfp.one/WJD" group-title="HUB",Gloobinho (alt)
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho (alt)" tvg-logo="http://lgfp.one/WJD" group-title="HUB",Gloobinho (alt)
 http://ftspl26.com/live/falavioa/xu1577/30274.ts
 #EXTINF:-1 tvg-id="Nick Jr. HD" tvg-name="Nick Jr (alt)" tvg-logo="http://lgfp.one/WPQ5" group-title="HUB",Nick Jr (alt)
 http://ftspl26.com/live/falavioa/xu1577/433835.ts
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast (alt)" tvg-logo="http://lgfp.one/WJF" group-title="HUB",Tooncast (alt)
 http://ftspl26.com/live/falavioa/xu1577/48756.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..ZooMoo.HD.br" tvg-name="DumDum (alt)" tvg-logo="http://lgfp.one/WJI" group-title="HUB",DumDum (alt)
+#EXTINF:-1 tvg-id="DumDum" tvg-name="DumDum (alt)" tvg-logo="http://lgfp.one/WJI" group-title="HUB",DumDum (alt)
 http://ftspl26.com/live/falavioa/xu1577/330656.ts
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel (alt)" tvg-logo="http://lgfp.one/WJX" group-title="HUB",Discovery Channel (alt)
 http://ftspl26.com/live/falavioa/xu1577/30260.ts
@@ -573,15 +573,15 @@ http://ftspl26.com/live/falavioa/xu1577/30257.ts
 http://ftspl26.com/live/falavioa/xu1577/30258.ts
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery (alt)" tvg-logo="http://lgfp.one/WJW" group-title="HUB",Investigation Discovery (alt)
 http://ftspl26.com/live/falavioa/xu1577/30259.ts
-#EXTINF:-1 tvg-id="History" tvg-name="History (alt)" tvg-logo="http://lgfp.one/WJS" group-title="HUB",History (alt)
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History (alt)" tvg-logo="http://lgfp.one/WJS" group-title="HUB",History (alt)
 http://ftspl26.com/live/falavioa/xu1577/30250.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..History.2.HD.br" tvg-name="History 2 (alt)" tvg-logo="http://lgfp.one/WJY" group-title="HUB",History 2 (alt)
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2 (alt)" tvg-logo="http://lgfp.one/WJY" group-title="HUB",History 2 (alt)
 http://ftspl26.com/live/falavioa/xu1577/30262.ts
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet (alt)" tvg-logo="http://lgfp.one/WHO" group-title="HUB",Animal Planet (alt)
 http://ftspl26.com/live/falavioa/xu1577/30248.ts
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural (alt)" tvg-logo="http://lgfp.one/DYS6" group-title="HUB",Canal Rural (alt)
 http://ftspl26.com/live/falavioa/xu1577/234099.ts
-#EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.HD..br" tvg-name="AgroMais (alt)" tvg-logo="http://lgfp.one/OOK9" group-title="HUB",AgroMais (alt)
+#EXTINF:-1 tvg-id="AgroMais" tvg-name="AgroMais (alt)" tvg-logo="http://lgfp.one/OOK9" group-title="HUB",AgroMais (alt)
 http://ftspl26.com/live/falavioa/xu1577/234104.ts
 #EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva (alt)" tvg-logo="http://lgfp.one/PTE9" group-title="HUB",Terra Viva (alt)
 http://ftspl26.com/live/falavioa/xu1577/325222.ts
