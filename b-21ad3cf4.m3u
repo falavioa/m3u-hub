@@ -203,7 +203,7 @@ http://ftspl26.com/live/falavioa/xu1577/333832.ts
 http://ftspl26.com/live/falavioa/xu1577/357903.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sony One Emoções" tvg-logo="http://lgfp.one/SPW0" group-title="4 · FILMES E SÉRIES",Sony One Emoções
 http://ftspl26.com/live/falavioa/xu1577/381436.ts
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space" tvg-logo="http://lgfp.one/APF" group-title="4 · FILMES E SÉRIES",Space
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://lgfp.one/APF" group-title="4 · FILMES E SÉRIES",Space
 http://ftspl26.com/live/falavioa/xu1577/282.ts
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://lgfp.one/API" group-title="4 · FILMES E SÉRIES",TBS
 http://ftspl26.com/live/falavioa/xu1577/285.ts
@@ -217,7 +217,7 @@ http://ftspl26.com/live/falavioa/xu1577/275.ts
 http://ftspl26.com/live/falavioa/xu1577/300930.ts
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://lgfp.one/APQ" group-title="4 · FILMES E SÉRIES",A&E
 http://ftspl26.com/live/falavioa/xu1577/293.ts
-#EXTINF:-1 tvg-id="truTV" tvg-name="TruTV" tvg-logo="http://lgfp.one/WEQ1" group-title="4 · FILMES E SÉRIES",TruTV
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://lgfp.one/WEQ1" group-title="4 · FILMES E SÉRIES",TruTV
 http://ftspl26.com/live/falavioa/xu1577/430971.ts
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://lgfp.one/APD" group-title="4 · FILMES E SÉRIES",Lifetime
 http://ftspl26.com/live/falavioa/xu1577/280.ts
@@ -295,7 +295,7 @@ http://ftspl26.com/live/falavioa/xu1577/333103.ts
 http://ftspl26.com/live/falavioa/xu1577/407762.ts
 #EXTINF:-1 tvg-id="DumDum" tvg-name="DumDum" tvg-logo="http://lgfp.one/WJI" group-title="6 · INFANTIL",DumDum
 http://ftspl26.com/live/falavioa/xu1577/108988.ts
-#EXTINF:-1 tvg-id="TV Rá Tim Bum! HD" tvg-name="TV Rá-Tim-Bum" tvg-logo="http://lgfp.one/WIZ" group-title="6 · INFANTIL",TV Rá-Tim-Bum
+#EXTINF:-1 tvg-id="TV Rá Tim Bum!" tvg-name="TV Rá-Tim-Bum" tvg-logo="http://lgfp.one/WIZ" group-title="6 · INFANTIL",TV Rá-Tim-Bum
 http://ftspl26.com/live/falavioa/xu1577/30265.ts
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://lgfp.one/ALA" group-title="7 · DOCUMENTÁRIOS",Discovery Channel
 http://ftspl26.com/live/falavioa/xu1577/166.ts
@@ -485,7 +485,7 @@ http://ftspl26.com/live/falavioa/xu1577/30206.ts
 http://ftspl26.com/live/falavioa/xu1577/30226.ts
 #EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel (alt)" tvg-logo="http://lgfp.one/WJN" group-title="HUB",Sony Channel (alt)
 http://ftspl26.com/live/falavioa/xu1577/30216.ts
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space (alt)" tvg-logo="http://lgfp.one/WHA" group-title="HUB",Space (alt)
+#EXTINF:-1 tvg-id="Space" tvg-name="Space (alt)" tvg-logo="http://lgfp.one/WHA" group-title="HUB",Space (alt)
 http://ftspl26.com/live/falavioa/xu1577/30214.ts
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS (alt)" tvg-logo="http://lgfp.one/WHF" group-title="HUB",TBS (alt)
 http://ftspl26.com/live/falavioa/xu1577/30223.ts
