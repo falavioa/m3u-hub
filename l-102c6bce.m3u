@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="https://falavioa.github.io/m3u-hub/e-99dfd534.xml.gz" x-tvg-url="https://falavioa.github.io/m3u-hub/e-99dfd534.xml.gz"
-# lista curada US/UK/LATAM — gerada em 25/11/2026 12:35
+# lista curada US/UK/LATAM — gerada em 25/11/2026 19:01
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us12" tvg-name="CBS Sports Network" tvg-chno="1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="1 · TOP",CBS Sports Network
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162087.ts
 #EXTINF:-1 tvg-id="DSportsColombiaHD(SPOCOHD).co" tvg-name="Directv Sports" tvg-chno="2" tvg-logo="http://picons.cmshulk.com/picons/logos/DirecTV_Sports_HD.png" group-title="1 · TOP",Directv Sports
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/609583.ts
 #EXTINF:-1 tvg-id="ESPN.us12" tvg-name="ESPN" tvg-chno="3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",ESPN
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163095.ts
-#EXTINF:-1 tvg-id="ESPN2.us3" tvg-name="ESPN 2" tvg-chno="4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.us12" tvg-name="ESPN 2" tvg-chno="4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",ESPN 2
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163093.ts
 #EXTINF:-1 tvg-id="ESPNDeportes.us12" tvg-name="ESPN Deportes" tvg-chno="5" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",ESPN Deportes
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163094.ts
 #EXTINF:-1 tvg-id="foxsports.us" tvg-name="FOX Sports" tvg-chno="6" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="1 · TOP",FOX Sports
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162004.ts
-#EXTINF:-1 tvg-id="FoxSports1.us12" tvg-name="FOX Sports 1" tvg-chno="7" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",FOX Sports 1
+#EXTINF:-1 tvg-id="FoxSports1.us1" tvg-name="FOX Sports 1" tvg-chno="7" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",FOX Sports 1
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163036.ts
 #EXTINF:-1 tvg-id="MLBNetwork.us1" tvg-name="MLB Network" tvg-chno="8" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",MLB Network
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162860.ts
@@ -20,7 +20,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162860.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162833.ts
 #EXTINF:-1 tvg-id="NFLNetwork.us12" tvg-name="NFL Network" tvg-chno="10" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",NFL Network
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162816.ts
-#EXTINF:-1 tvg-id="monepg.sky-sports.119101" tvg-name="Sky Sports F1" tvg-chno="11" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/6461.jpg?9406" group-title="1 · TOP",Sky Sports F1
+#EXTINF:-1 tvg-id="monepg.formula-1.119096" tvg-name="Sky Sports F1" tvg-chno="11" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/6461.jpg?9406" group-title="1 · TOP",Sky Sports F1
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2043940.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.119110" tvg-name="Sky Sports Main Event" tvg-chno="12" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?92793" group-title="1 · TOP",Sky Sports Main Event
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527639.ts
@@ -30,7 +30,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527637.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290337.ts
 #EXTINF:-1 tvg-id="monepg.tnt-sports.118865" tvg-name="TNT Sports 2" tvg-chno="15" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="1 · TOP",TNT Sports 2
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290336.ts
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-chno="16" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="1 · TOP",TUDN
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-chno="16" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="1 · TOP",TUDN
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161767.ts
 #EXTINF:-1 tvg-id="TYCSports.us12" tvg-name="TyC Sports" tvg-chno="17" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",TyC Sports
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162553.ts
@@ -170,7 +170,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163025.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536726.ts
 #EXTINF:-1 tvg-id="HBO2.ca12" tvg-name="HBO 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="6 · FILMES E SÉRIES",HBO 2
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536725.ts
-#EXTINF:-1 tvg-id="HBOComedy.us1" tvg-name="HBO Comedy" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="6 · FILMES E SÉRIES",HBO Comedy
+#EXTINF:-1 tvg-id="HBOComedy.us12" tvg-name="HBO Comedy" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="6 · FILMES E SÉRIES",HBO Comedy
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162994.ts
 #EXTINF:-1 tvg-id="1329" tvg-name="HBO Family" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9729.png?22984" group-title="6 · FILMES E SÉRIES",HBO Family
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325974.ts
@@ -178,7 +178,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325974.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536720.ts
 #EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO Zone" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="6 · FILMES E SÉRIES",HBO Zone
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536718.ts
-#EXTINF:-1 tvg-id="IFC.us12" tvg-name="IFC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="6 · FILMES E SÉRIES",IFC
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="6 · FILMES E SÉRIES",IFC
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162953.ts
 #EXTINF:-1 tvg-id="MGM+.us12" tvg-name="MGM+" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="6 · FILMES E SÉRIES",MGM+
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162880.ts
@@ -202,7 +202,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1328838.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/639197.ts
 #EXTINF:-1 tvg-id="skycinemahits.uk" tvg-name="Sky Cinema Hits" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12109.jpg?40558" group-title="6 · FILMES E SÉRIES",Sky Cinema Hits
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1328835.ts
-#EXTINF:-1 tvg-id="skycinemapremiere.uk" tvg-name="Sky Cinema Premiere" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?66392" group-title="6 · FILMES E SÉRIES",Sky Cinema Premiere
+#EXTINF:-1 tvg-id="monepg.sky-entertainment.118750" tvg-name="Sky Cinema Premiere" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?66392" group-title="6 · FILMES E SÉRIES",Sky Cinema Premiere
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527706.ts
 #EXTINF:-1 tvg-id="skycinemathriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12182.jpg?54085" group-title="6 · FILMES E SÉRIES",Sky Cinema Thriller
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/639203.ts
@@ -216,7 +216,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527676.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162671.ts
 #EXTINF:-1 tvg-id="ComedyTV.us12" tvg-name="Starz Comedy" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="6 · FILMES E SÉRIES",Starz Comedy
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162669.ts
-#EXTINF:-1 tvg-id="StarzEdge.us12" tvg-name="Starz Edge" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="6 · FILMES E SÉRIES",Starz Edge
+#EXTINF:-1 tvg-id="StarzEdge.us1" tvg-name="Starz Edge" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="6 · FILMES E SÉRIES",Starz Edge
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162668.ts
 #EXTINF:-1 tvg-id="SundanceTV.us12" tvg-name="Sundance TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="6 · FILMES E SÉRIES",Sundance TV
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536432.ts
@@ -224,21 +224,21 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536432.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325993.ts
 #EXTINF:-1 tvg-id="AandENetwork.us12" tvg-name="A&E" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",A&E
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163342.ts
-#EXTINF:-1 tvg-id="AMC.us12" tvg-name="AMC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",AMC
+#EXTINF:-1 tvg-id="1327" tvg-name="AMC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",AMC
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163307.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.119403" tvg-name="Animal Planet" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="7 · ENTRETENIMENTO",Animal Planet
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162120.ts
-#EXTINF:-1 tvg-id="5" tvg-name="BBC Four" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14442.png?ver=64784" group-title="7 · ENTRETENIMENTO",BBC Four
+#EXTINF:-1 tvg-id="705" tvg-name="BBC Four" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14442.png?ver=64784" group-title="7 · ENTRETENIMENTO",BBC Four
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1525667.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.118672" tvg-name="BBC Three" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14442.png?ver=64784" group-title="7 · ENTRETENIMENTO",BBC Three
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1525674.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.118521" tvg-name="BBC Two" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12017.jpg?32555" group-title="7 · ENTRETENIMENTO",BBC Two
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/162171.ts
-#EXTINF:-1 tvg-id="BET.us12" tvg-name="BET" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",BET
+#EXTINF:-1 tvg-id="BET.us1" tvg-name="BET" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",BET
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163254.ts
 #EXTINF:-1 tvg-id="Bravo.us1" tvg-name="Bravo" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",Bravo
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163230.ts
-#EXTINF:-1 tvg-id="CMT.us12" tvg-name="CMT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",CMT
+#EXTINF:-1 tvg-id="CMT.us1" tvg-name="CMT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",CMT
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163173.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.118660" tvg-name="Channel 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12107.jpg?42046" group-title="7 · ENTRETENIMENTO",Channel 4
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/717676.ts
@@ -260,19 +260,19 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163024.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163059.ts
 #EXTINF:-1 tvg-id="Freeform.us12" tvg-name="Freeform" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",Freeform
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163029.ts
-#EXTINF:-1 tvg-id="GameShowNetwork.us1" tvg-name="Game Show Network" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",Game Show Network
+#EXTINF:-1 tvg-id="GameShowNetwork.us12" tvg-name="Game Show Network" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",Game Show Network
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163021.ts
-#EXTINF:-1 tvg-id="HGTV.us12" tvg-name="HGTV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",HGTV
+#EXTINF:-1 tvg-id="HGTV.us1" tvg-name="HGTV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",HGTV
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162980.ts
 #EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",History
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162975.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.118659" tvg-name="ITV1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12019.jpg?8392" group-title="7 · ENTRETENIMENTO",ITV1
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/162104.ts
-#EXTINF:-1 tvg-id="monepg.tv-guide.118524" tvg-name="ITV2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?96832" group-title="7 · ENTRETENIMENTO",ITV2
+#EXTINF:-1 tvg-id="monepg.itvx.119080" tvg-name="ITV2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?96832" group-title="7 · ENTRETENIMENTO",ITV2
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/162106.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.119407" tvg-name="Investigation Discovery" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",Investigation Discovery
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162942.ts
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",Lifetime
+#EXTINF:-1 tvg-id="Lifetime.us12" tvg-name="Lifetime" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",Lifetime
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162912.ts
 #EXTINF:-1 tvg-id="MTV.us12" tvg-name="MTV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",MTV
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162849.ts
@@ -280,7 +280,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162849.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/162282.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.119405" tvg-name="National Geographic" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",National Geographic
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162835.ts
-#EXTINF:-1 tvg-id="OWN.us" tvg-name="OWN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="7 · ENTRETENIMENTO",OWN
+#EXTINF:-1 tvg-id="OWN.us12" tvg-name="OWN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="7 · ENTRETENIMENTO",OWN
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161882.ts
 #EXTINF:-1 tvg-id="Oxygen.us1" tvg-name="Oxygen" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8181.jpg?93487" group-title="7 · ENTRETENIMENTO",Oxygen
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325812.ts
@@ -304,7 +304,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162625.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162583.ts
 #EXTINF:-1 tvg-id="TNT.us12" tvg-name="TNT" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",TNT
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162582.ts
-#EXTINF:-1 tvg-id="TravelChannel.us12" tvg-name="Travel Channel" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",Travel Channel
+#EXTINF:-1 tvg-id="TravelChannel.us1" tvg-name="Travel Channel" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",Travel Channel
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162570.ts
 #EXTINF:-1 tvg-id="USANetwork.us12" tvg-name="USA Network" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="7 · ENTRETENIMENTO",USA Network
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161759.ts
@@ -316,7 +316,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162527.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162566.ts
 #EXTINF:-1 tvg-id="BabyFirst.us12" tvg-name="BabyFirst" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="8 · INFANTIL",BabyFirst
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162112.ts
-#EXTINF:-1 tvg-id="Boomerang.us12" tvg-name="Boomerang" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="8 · INFANTIL",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.us1" tvg-name="Boomerang" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="8 · INFANTIL",Boomerang
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163237.ts
 #EXTINF:-1 tvg-id="CartoonNetwork.us12" tvg-name="Cartoon Network" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="8 · INFANTIL",Cartoon Network
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162088.ts
@@ -324,7 +324,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162088.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2062998.ts
 #EXTINF:-1 tvg-id="DiscoveryKids(DKNLM).mx" tvg-name="Discovery Kids" tvg-logo="http://picons.cmshulk.com/picons/552829.png" group-title="8 · INFANTIL",Discovery Kids
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2095591.ts
-#EXTINF:-1 tvg-id="DisneyChannel.us1" tvg-name="Disney Channel" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="8 · INFANTIL",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.us12" tvg-name="Disney Channel" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="8 · INFANTIL",Disney Channel
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163120.ts
 #EXTINF:-1 tvg-id="1352" tvg-name="Disney Junior" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="8 · INFANTIL",Disney Junior
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162042.ts
@@ -344,19 +344,19 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162623.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163300.ts
 #EXTINF:-1 tvg-id="crimeinvestigation.uk" tvg-name="Crime Investigation" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6623.jpg" group-title="9 · DOCUMENTÁRIO",Crime Investigation
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1312906.ts
-#EXTINF:-1 tvg-id="DestinationAmerica.us1" tvg-name="Destination America" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="9 · DOCUMENTÁRIO",Destination America
+#EXTINF:-1 tvg-id="DestinationAmerica.us12" tvg-name="Destination America" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="9 · DOCUMENTÁRIO",Destination America
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163131.ts
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?1168" group-title="9 · DOCUMENTÁRIO",Discovery Science
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325774.ts
-#EXTINF:-1 tvg-id="DiscoveryTurbo.us2" tvg-name="Discovery Turbo" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="9 · DOCUMENTÁRIO",Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="9 · DOCUMENTÁRIO",Discovery Turbo
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163122.ts
 #EXTINF:-1 tvg-id="history2.uk" tvg-name="History 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6623.jpg" group-title="9 · DOCUMENTÁRIO",History 2
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1312896.ts
-#EXTINF:-1 tvg-id="NationalGeographicWild.us12" tvg-name="National Geographic Wild" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="9 · DOCUMENTÁRIO",National Geographic Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="9 · DOCUMENTÁRIO",National Geographic Wild
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162836.ts
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Science Channel" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="9 · DOCUMENTÁRIO",Science Channel
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162710.ts
-#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian Channel" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="9 · DOCUMENTÁRIO",Smithsonian Channel
+#EXTINF:-1 tvg-id="SmithsonianNetwork.us12" tvg-name="Smithsonian Channel" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="9 · DOCUMENTÁRIO",Smithsonian Channel
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161838.ts
 #EXTINF:-1 tvg-id="ACCNetwork.us12" tvg-name="ACC Network" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",ACC Network
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163333.ts
@@ -372,7 +372,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/609311.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/609583.ts
 #EXTINF:-1 tvg-id="ESPN.us12" tvg-name="ESPN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",ESPN
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163095.ts
-#EXTINF:-1 tvg-id="ESPN2.us3" tvg-name="ESPN 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.us12" tvg-name="ESPN 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",ESPN 2
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163093.ts
 #EXTINF:-1 tvg-id="ESPN2(E2LSA).co" tvg-name="ESPN 2" tvg-logo="http://51.158.145.100/picons/logos/LATINO/ESPN-2.png" group-title="HUB",ESPN 2
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2096330.ts
@@ -390,7 +390,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163091.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290304.ts
 #EXTINF:-1 tvg-id="foxsports.us" tvg-name="FOX Sports" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="HUB",FOX Sports
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162004.ts
-#EXTINF:-1 tvg-id="FoxSports1.us12" tvg-name="FOX Sports 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",FOX Sports 1
+#EXTINF:-1 tvg-id="FoxSports1.us1" tvg-name="FOX Sports 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",FOX Sports 1
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163036.ts
 #EXTINF:-1 tvg-id="FoxSports2.us12" tvg-name="FOX Sports 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",FOX Sports 2
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163035.ts
@@ -424,7 +424,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527627.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527625.ts
 #EXTINF:-1 tvg-id="skysportsdarts.uk" tvg-name="Sky Sports Darts" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12415.jpg?89982" group-title="HUB",Sky Sports Darts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/588040.ts
-#EXTINF:-1 tvg-id="monepg.sky-sports.119101" tvg-name="Sky Sports F1" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/6461.jpg?9406" group-title="HUB",Sky Sports F1
+#EXTINF:-1 tvg-id="monepg.formula-1.119096" tvg-name="Sky Sports F1" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/6461.jpg?9406" group-title="HUB",Sky Sports F1
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2043940.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.118880" tvg-name="Sky Sports Football" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11978.png?85148" group-title="HUB",Sky Sports Football
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527635.ts
@@ -458,7 +458,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290336.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290335.ts
 #EXTINF:-1 tvg-id="monepg.tnt-sports.118867" tvg-name="TNT Sports 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="HUB",TNT Sports 4
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290334.ts
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="HUB",TUDN
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="HUB",TUDN
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161767.ts
 #EXTINF:-1 tvg-id="TennisChannel.us1" tvg-name="Tennis Channel" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",Tennis Channel
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162616.ts
@@ -476,7 +476,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162144.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162325.ts
 #EXTINF:-1 tvg-id="ACCNetwork.us12" tvg-name="ACC Network (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",ACC Network (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162135.ts
-#EXTINF:-1 tvg-id="AMC.us12" tvg-name="AMC (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",AMC (ALT)
+#EXTINF:-1 tvg-id="1327" tvg-name="AMC (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",AMC (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536997.ts
 #EXTINF:-1 tvg-id="AlJazeera.us" tvg-name="Al Jazeera English (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/218.jpg" group-title="BACKUP",Al Jazeera English (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/499085.ts
@@ -484,13 +484,13 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/499085.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325780.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.118700" tvg-name="BBC News (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",BBC News (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536959.ts
-#EXTINF:-1 tvg-id="BET.us12" tvg-name="BET (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",BET (ALT)
+#EXTINF:-1 tvg-id="BET.us1" tvg-name="BET (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",BET (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162106.ts
 #EXTINF:-1 tvg-id="BigTen.us" tvg-name="Big Ten Network (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8289.jpg?92041" group-title="BACKUP",Big Ten Network (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325024.ts
 #EXTINF:-1 tvg-id="Bloomberg.us12" tvg-name="Bloomberg (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11569.jpg?ver=17740" group-title="BACKUP",Bloomberg (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325904.ts
-#EXTINF:-1 tvg-id="Boomerang.us12" tvg-name="Boomerang (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Boomerang (ALT)
+#EXTINF:-1 tvg-id="Boomerang.us1" tvg-name="Boomerang (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Boomerang (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162095.ts
 #EXTINF:-1 tvg-id="Bravo.us1" tvg-name="Bravo (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Bravo (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162093.ts
@@ -498,7 +498,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162093.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/429909.ts
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us12" tvg-name="CBS Sports Network (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13622.png?ver=58093" group-title="BACKUP",CBS Sports Network (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/429939.ts
-#EXTINF:-1 tvg-id="CMT.us12" tvg-name="CMT (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",CMT (ALT)
+#EXTINF:-1 tvg-id="CMT.us1" tvg-name="CMT (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",CMT (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162075.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.119748" tvg-name="CNBC (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",CNBC (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162074.ts
@@ -516,15 +516,15 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162078.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162070.ts
 #EXTINF:-1 tvg-id="crimeinvestigation.uk" tvg-name="Crime Investigation (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?79027" group-title="BACKUP",Crime Investigation (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/717719.ts
-#EXTINF:-1 tvg-id="DestinationAmerica.us1" tvg-name="Destination America (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Destination America (ALT)
+#EXTINF:-1 tvg-id="DestinationAmerica.us12" tvg-name="Destination America (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Destination America (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162048.ts
 #EXTINF:-1 tvg-id="DiscoveryKids(DKNLM).mx" tvg-name="Discovery Kids (ALT)" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-KIDS.png" group-title="BACKUP",Discovery Kids (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2096356.ts
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science (ALT)" tvg-logo="http://picons.cmshulk.com/picons/552987.png" group-title="BACKUP",Discovery Science (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2095590.ts
-#EXTINF:-1 tvg-id="DiscoveryTurbo.us2" tvg-name="Discovery Turbo (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Discovery Turbo (ALT)
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Discovery Turbo (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162044.ts
-#EXTINF:-1 tvg-id="DisneyChannel.us1" tvg-name="Disney Channel (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Disney Channel (ALT)
+#EXTINF:-1 tvg-id="DisneyChannel.us12" tvg-name="Disney Channel (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Disney Channel (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162043.ts
 #EXTINF:-1 tvg-id="1352" tvg-name="Disney Junior (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3867.png?ver=88320" group-title="BACKUP",Disney Junior (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2062986.ts
@@ -534,7 +534,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162041.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162034.ts
 #EXTINF:-1 tvg-id="ESPN.us12" tvg-name="ESPN (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",ESPN (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162029.ts
-#EXTINF:-1 tvg-id="ESPN2.us3" tvg-name="ESPN 2 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",ESPN 2 (ALT)
+#EXTINF:-1 tvg-id="ESPN2.us12" tvg-name="ESPN 2 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",ESPN 2 (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162021.ts
 #EXTINF:-1 tvg-id="ESPN2(E2LSA).co" tvg-name="ESPN 2 (ALT)" tvg-logo="http://picons.cmshulk.com/picons/552834.png" group-title="BACKUP",ESPN 2 (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2095581.ts
@@ -548,7 +548,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162018.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536774.ts
 #EXTINF:-1 tvg-id="foxsports.us" tvg-name="FOX Sports (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="BACKUP",FOX Sports (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1476388.ts
-#EXTINF:-1 tvg-id="FoxSports1.us12" tvg-name="FOX Sports 1 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",FOX Sports 1 (ALT)
+#EXTINF:-1 tvg-id="FoxSports1.us1" tvg-name="FOX Sports 1 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",FOX Sports 1 (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162003.ts
 #EXTINF:-1 tvg-id="FoxSports2.us12" tvg-name="FOX Sports 2 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",FOX Sports 2 (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162002.ts
@@ -572,7 +572,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2095574.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1772087.ts
 #EXTINF:-1 tvg-id="Freeform.us12" tvg-name="Freeform (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Freeform (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162000.ts
-#EXTINF:-1 tvg-id="GameShowNetwork.us1" tvg-name="Game Show Network (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Game Show Network (ALT)
+#EXTINF:-1 tvg-id="GameShowNetwork.us12" tvg-name="Game Show Network (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Game Show Network (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161992.ts
 #EXTINF:-1 tvg-id="GolfChannel.us1" tvg-name="Golf Channel (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Golf Channel (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161989.ts
@@ -580,7 +580,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161989.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325973.ts
 #EXTINF:-1 tvg-id="HBO2.ca12" tvg-name="HBO 2 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4009.jpg?12996" group-title="BACKUP",HBO 2 (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325976.ts
-#EXTINF:-1 tvg-id="HBOComedy.us1" tvg-name="HBO Comedy (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",HBO Comedy (ALT)
+#EXTINF:-1 tvg-id="HBOComedy.us12" tvg-name="HBO Comedy (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",HBO Comedy (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536723.ts
 #EXTINF:-1 tvg-id="1329" tvg-name="HBO Family (ALT)" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.hbo_family.png" group-title="BACKUP",HBO Family (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/609473.ts
@@ -588,7 +588,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/609473.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325972.ts
 #EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO Zone (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8216.jpg?30214" group-title="BACKUP",HBO Zone (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325971.ts
-#EXTINF:-1 tvg-id="HGTV.us12" tvg-name="HGTV (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",HGTV (ALT)
+#EXTINF:-1 tvg-id="HGTV.us1" tvg-name="HGTV (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",HGTV (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161970.ts
 #EXTINF:-1 tvg-id="HLN.us1" tvg-name="HLN (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",HLN (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161967.ts
@@ -596,11 +596,11 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161967.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161969.ts
 #EXTINF:-1 tvg-id="history2.uk" tvg-name="History 2 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?7924" group-title="BACKUP",History 2 (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/717717.ts
-#EXTINF:-1 tvg-id="IFC.us12" tvg-name="IFC (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",IFC (ALT)
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",IFC (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536695.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.119407" tvg-name="Investigation Discovery (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Investigation Discovery (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161955.ts
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Lifetime (ALT)
+#EXTINF:-1 tvg-id="Lifetime.us12" tvg-name="Lifetime (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Lifetime (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161948.ts
 #EXTINF:-1 tvg-id="MGM+.us12" tvg-name="MGM+ (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",MGM+ (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536623.ts
@@ -622,7 +622,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161890.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161889.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.119405" tvg-name="National Geographic (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",National Geographic (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161909.ts
-#EXTINF:-1 tvg-id="NationalGeographicWild.us12" tvg-name="National Geographic Wild (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",National Geographic Wild (ALT)
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",National Geographic Wild (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161910.ts
 #EXTINF:-1 tvg-id="NewsNation.us12" tvg-name="NewsNation (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",NewsNation (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161893.ts
@@ -634,7 +634,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161888.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1772114.ts
 #EXTINF:-1 tvg-id="Nicktoons.us12" tvg-name="Nicktoons (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Nicktoons (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161886.ts
-#EXTINF:-1 tvg-id="OWN.us" tvg-name="OWN (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8197.jpg?1638" group-title="BACKUP",OWN (ALT)
+#EXTINF:-1 tvg-id="OWN.us12" tvg-name="OWN (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8197.jpg?1638" group-title="BACKUP",OWN (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325813.ts
 #EXTINF:-1 tvg-id="PBSKIDSHD(HD06).us" tvg-name="PBS Kids (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8185.png?31798" group-title="BACKUP",PBS Kids (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/324978.ts
@@ -658,7 +658,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/639185.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/162329.ts
 #EXTINF:-1 tvg-id="skycinemahits.uk" tvg-name="Sky Cinema Hits (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12176.png?61071" group-title="BACKUP",Sky Cinema Hits (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/639199.ts
-#EXTINF:-1 tvg-id="skycinemapremiere.uk" tvg-name="Sky Cinema Premiere (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="BACKUP",Sky Cinema Premiere (ALT)
+#EXTINF:-1 tvg-id="monepg.sky-entertainment.118750" tvg-name="Sky Cinema Premiere (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="BACKUP",Sky Cinema Premiere (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/162359.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.118710" tvg-name="Sky Comedy (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6428.png?45412" group-title="BACKUP",Sky Comedy (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/639186.ts
@@ -674,7 +674,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1520107.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290237.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.118885" tvg-name="Sky Sports Cricket (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11981.jpg?93201" group-title="BACKUP",Sky Sports Cricket (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290236.ts
-#EXTINF:-1 tvg-id="monepg.sky-sports.119101" tvg-name="Sky Sports F1 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6461.jpg?49107" group-title="BACKUP",Sky Sports F1 (ALT)
+#EXTINF:-1 tvg-id="monepg.formula-1.119096" tvg-name="Sky Sports F1 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6461.jpg?49107" group-title="BACKUP",Sky Sports F1 (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527633.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.118880" tvg-name="Sky Sports Football (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11978.png?31170" group-title="BACKUP",Sky Sports Football (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290239.ts
@@ -696,7 +696,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290233.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290232.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.118705" tvg-name="Sky Witness (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?34714" group-title="BACKUP",Sky Witness (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/162255.ts
-#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian Channel (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3051.png?79749" group-title="BACKUP",Smithsonian Channel (ALT)
+#EXTINF:-1 tvg-id="SmithsonianNetwork.us12" tvg-name="Smithsonian Channel (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3051.png?79749" group-title="BACKUP",Smithsonian Channel (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325877.ts
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",SportsGrid (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536446.ts
@@ -706,7 +706,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325054.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1476133.ts
 #EXTINF:-1 tvg-id="ComedyTV.us12" tvg-name="Starz Comedy (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Starz Comedy (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161825.ts
-#EXTINF:-1 tvg-id="StarzEdge.us12" tvg-name="Starz Edge (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Starz Edge (ALT)
+#EXTINF:-1 tvg-id="StarzEdge.us1" tvg-name="Starz Edge (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Starz Edge (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161823.ts
 #EXTINF:-1 tvg-id="SundanceTV.us12" tvg-name="Sundance TV (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Sundance TV (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161810.ts
@@ -726,7 +726,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527615.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527613.ts
 #EXTINF:-1 tvg-id="monepg.tnt-sports.118867" tvg-name="TNT Sports 4 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",TNT Sports 4 (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1537390.ts
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN (ALT)" tvg-logo="http://picons.cmshulk.com/picons/552870.png" group-title="BACKUP",TUDN (ALT)
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN (ALT)" tvg-logo="http://picons.cmshulk.com/picons/552870.png" group-title="BACKUP",TUDN (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2095510.ts
 #EXTINF:-1 tvg-id="talktv.uk" tvg-name="Talk TV (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6275.jpg?29781" group-title="BACKUP",Talk TV (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/351803.ts
@@ -736,7 +736,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161798.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161797.ts
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9935.jpg?18630" group-title="BACKUP",The Weather Channel (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325787.ts
-#EXTINF:-1 tvg-id="TravelChannel.us12" tvg-name="Travel Channel (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Travel Channel (ALT)
+#EXTINF:-1 tvg-id="TravelChannel.us1" tvg-name="Travel Channel (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Travel Channel (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161772.ts
 #EXTINF:-1 tvg-id="USANetwork.us12" tvg-name="USA Network (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8091.png?12315" group-title="BACKUP",USA Network (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325796.ts
