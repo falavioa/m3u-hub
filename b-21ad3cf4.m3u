@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="https://falavioa.github.io/m3u-hub/eb-3a744128.xml.gz" x-tvg-url="https://falavioa.github.io/m3u-hub/eb-3a744128.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="Jogos de Hoje" tvg-logo="http://lgfp.one/NMY2" group-title="0 · JOGOS DO DIA",Jogos de Hoje
+http://ftspl26.com/live/falavioa/xu1577/300155.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - São Paulo x Remo" tvg-logo="http://lgfp.one/OWJ4" group-title="0 · JOGOS DO DIA",20:00 - São Paulo x Remo
+http://ftspl26.com/live/falavioa/xu1577/312856.ts
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="http://lgfp.one/ART" group-title="1 · ABERTOS",Globo SP
 http://ftspl26.com/live/falavioa/xu1577/354.ts
 #EXTINF:-1 tvg-id="Globo RBS TV Poa" tvg-name="Globo RS (RBS POA)" tvg-logo="http://lgfp.one/RUU4" group-title="1 · ABERTOS",Globo RS (RBS POA)
@@ -139,10 +143,6 @@ http://ftspl26.com/live/falavioa/xu1577/375003.ts
 http://ftspl26.com/live/falavioa/xu1577/375004.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Max Mosaico Champions" tvg-logo="http://lgfp.one/MXP1" group-title="2 · ESPORTE",HBO Max Mosaico Champions
 http://ftspl26.com/live/falavioa/xu1577/283805.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jogos de Hoje" tvg-logo="http://lgfp.one/NMY2" group-title="2 · ESPORTE",Jogos de Hoje
-http://ftspl26.com/live/falavioa/xu1577/300155.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:00 - São Paulo x Remo" tvg-logo="http://lgfp.one/OWJ4" group-title="2 · ESPORTE",20:00 - São Paulo x Remo
-http://ftspl26.com/live/falavioa/xu1577/312856.ts
 #EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="http://lgfp.one/AWY" group-title="3 · NOTÍCIAS",Globo News
 http://ftspl26.com/live/falavioa/xu1577/512.ts
 #EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil" tvg-logo="http://lgfp.one/AWZ" group-title="3 · NOTÍCIAS",CNN Brasil
@@ -605,3 +605,7 @@ http://ftspl26.com/live/falavioa/xu1577/325222.ts
 http://ftspl26.com/live/falavioa/xu1577/231849.ts
 #EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 (alt)" tvg-logo="http://lgfp.one/NOI7" group-title="HUB",Paramount+ 1 (alt)
 http://ftspl26.com/live/falavioa/xu1577/379544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jogos de Hoje" tvg-logo="http://lgfp.one/NMY2" group-title="0 · JOGOS DO DIA",Jogos de Hoje
+http://ftspl26.com/live/falavioa/xu1577/300155.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - São Paulo x Remo" tvg-logo="http://lgfp.one/OWJ4" group-title="0 · JOGOS DO DIA",20:00 - São Paulo x Remo
+http://ftspl26.com/live/falavioa/xu1577/312856.ts
