@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://falavioa.github.io/m3u-hub/e-99dfd534.xml.gz" x-tvg-url="https://falavioa.github.io/m3u-hub/e-99dfd534.xml.gz"
+# lista curada US/UK/LATAM — gerada em 26/11/2026 13:46
 #EXTINF:-1 tvg-id="" tvg-name="Ajax x Thun" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="0 · JOGOS DO DIA",Ajax x Thun
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1025261.ts
 #EXTINF:-1 tvg-id="" tvg-name="Beşiktaş x Hapoel Be'er Sheva" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="0 · JOGOS DO DIA",Beşiktaş x Hapoel Be'er Sheva
@@ -85,7 +86,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163093.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163094.ts
 #EXTINF:-1 tvg-id="foxsports.us" tvg-name="FOX Sports" tvg-chno="6" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="1 · TOP",FOX Sports
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162004.ts
-#EXTINF:-1 tvg-id="FoxSports1.us12" tvg-name="FOX Sports 1" tvg-chno="7" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",FOX Sports 1
+#EXTINF:-1 tvg-id="FoxSports1.us1" tvg-name="FOX Sports 1" tvg-chno="7" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",FOX Sports 1
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163036.ts
 #EXTINF:-1 tvg-id="MLBNetwork.us12" tvg-name="MLB Network" tvg-chno="8" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",MLB Network
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162860.ts
@@ -103,7 +104,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527637.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290337.ts
 #EXTINF:-1 tvg-id="monepg.tnt-sports.118865" tvg-name="TNT Sports 2" tvg-chno="15" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="1 · TOP",TNT Sports 2
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290336.ts
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-chno="16" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="1 · TOP",TUDN
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-chno="16" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="1 · TOP",TUDN
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161767.ts
 #EXTINF:-1 tvg-id="TYCSports.us12" tvg-name="TyC Sports" tvg-chno="17" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="1 · TOP",TyC Sports
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162553.ts
@@ -153,13 +154,13 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527635.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527623.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.118887" tvg-name="Sky Sports Mix" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12262.jpg?14409" group-title="3 · ESPORTE UK",Sky Sports Mix
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527621.ts
-#EXTINF:-1 tvg-id="monepg.sky-sports.118878" tvg-name="Sky Sports News" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12268.jpg?8611" group-title="3 · ESPORTE UK",Sky Sports News
+#EXTINF:-1 tvg-id="monepg.tv-guide.118722" tvg-name="Sky Sports News" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12268.jpg?8611" group-title="3 · ESPORTE UK",Sky Sports News
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290243.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.118888" tvg-name="Sky Sports Plus" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7872.jpg?68905" group-title="3 · ESPORTE UK",Sky Sports Plus
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290231.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.118882" tvg-name="Sky Sports Racing" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3130.jpg?96961" group-title="3 · ESPORTE UK",Sky Sports Racing
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527631.ts
-#EXTINF:-1 tvg-id="monepg.sky-sports.118883" tvg-name="Sky Sports Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12307.jpg?81291" group-title="3 · ESPORTE UK",Sky Sports Tennis
+#EXTINF:-1 tvg-id="monepg.tennis.119741" tvg-name="Sky Sports Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12307.jpg?81291" group-title="3 · ESPORTE UK",Sky Sports Tennis
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527629.ts
 #EXTINF:-1 tvg-id="monepg.tnt-sports.118866" tvg-name="TNT Sports 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="3 · ESPORTE UK",TNT Sports 3
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290335.ts
@@ -265,7 +266,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536459.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162695.ts
 #EXTINF:-1 tvg-id="ShowtimeExtreme.us12" tvg-name="Showtime Extreme" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="6 · FILMES E SÉRIES",Showtime Extreme
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162694.ts
-#EXTINF:-1 tvg-id="ShowtimeShowcase.us1" tvg-name="Showtime Showcase" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="6 · FILMES E SÉRIES",Showtime Showcase
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us12" tvg-name="Showtime Showcase" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="6 · FILMES E SÉRIES",Showtime Showcase
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162691.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.118706" tvg-name="Sky Atlantic" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6482.jpg?88948" group-title="6 · FILMES E SÉRIES",Sky Atlantic
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527710.ts
@@ -297,11 +298,11 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536432.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325993.ts
 #EXTINF:-1 tvg-id="AandENetwork.us12" tvg-name="A&E" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",A&E
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163342.ts
-#EXTINF:-1 tvg-id="AMC.us12" tvg-name="AMC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",AMC
+#EXTINF:-1 tvg-id="1327" tvg-name="AMC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",AMC
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163307.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.119403" tvg-name="Animal Planet" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="7 · ENTRETENIMENTO",Animal Planet
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162120.ts
-#EXTINF:-1 tvg-id="705" tvg-name="BBC Four" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14442.png?ver=64784" group-title="7 · ENTRETENIMENTO",BBC Four
+#EXTINF:-1 tvg-id="5" tvg-name="BBC Four" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14442.png?ver=64784" group-title="7 · ENTRETENIMENTO",BBC Four
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1525667.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.118672" tvg-name="BBC Three" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14442.png?ver=64784" group-title="7 · ENTRETENIMENTO",BBC Three
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1525674.ts
@@ -339,9 +340,9 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163021.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162980.ts
 #EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",History
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162975.ts
-#EXTINF:-1 tvg-id="monepg.tv-guide.118659" tvg-name="ITV1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12019.jpg?8392" group-title="7 · ENTRETENIMENTO",ITV1
+#EXTINF:-1 tvg-id="monepg.itvx.119079" tvg-name="ITV1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12019.jpg?8392" group-title="7 · ENTRETENIMENTO",ITV1
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/162104.ts
-#EXTINF:-1 tvg-id="monepg.itvx.119080" tvg-name="ITV2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?96832" group-title="7 · ENTRETENIMENTO",ITV2
+#EXTINF:-1 tvg-id="monepg.tv-guide.118524" tvg-name="ITV2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?96832" group-title="7 · ENTRETENIMENTO",ITV2
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/162106.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.119407" tvg-name="Investigation Discovery" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="7 · ENTRETENIMENTO",Investigation Discovery
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162942.ts
@@ -413,7 +414,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162808.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161876.ts
 #EXTINF:-1 tvg-id="TeenNick.us12" tvg-name="TeenNick" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="8 · INFANTIL",TeenNick
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162623.ts
-#EXTINF:-1 tvg-id="AmericanHeroesChannel.ca2" tvg-name="American Heroes Channel" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="9 · DOCUMENTÁRIO",American Heroes Channel
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.ca" tvg-name="American Heroes Channel" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="9 · DOCUMENTÁRIO",American Heroes Channel
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163300.ts
 #EXTINF:-1 tvg-id="crimeinvestigation.uk" tvg-name="Crime Investigation" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6623.jpg" group-title="9 · DOCUMENTÁRIO",Crime Investigation
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1312906.ts
@@ -463,7 +464,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163091.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290304.ts
 #EXTINF:-1 tvg-id="foxsports.us" tvg-name="FOX Sports" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="HUB",FOX Sports
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162004.ts
-#EXTINF:-1 tvg-id="FoxSports1.us12" tvg-name="FOX Sports 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",FOX Sports 1
+#EXTINF:-1 tvg-id="FoxSports1.us1" tvg-name="FOX Sports 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",FOX Sports 1
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163036.ts
 #EXTINF:-1 tvg-id="FoxSports2.us12" tvg-name="FOX Sports 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",FOX Sports 2
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2163035.ts
@@ -507,7 +508,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527623.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527639.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.118887" tvg-name="Sky Sports Mix" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12262.jpg?14409" group-title="HUB",Sky Sports Mix
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527621.ts
-#EXTINF:-1 tvg-id="monepg.sky-sports.118878" tvg-name="Sky Sports News" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12268.jpg?8611" group-title="HUB",Sky Sports News
+#EXTINF:-1 tvg-id="monepg.tv-guide.118722" tvg-name="Sky Sports News" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12268.jpg?8611" group-title="HUB",Sky Sports News
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290243.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.118888" tvg-name="Sky Sports Plus" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7872.jpg?68905" group-title="HUB",Sky Sports Plus
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290231.ts
@@ -515,7 +516,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290231.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527637.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.118882" tvg-name="Sky Sports Racing" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3130.jpg?96961" group-title="HUB",Sky Sports Racing
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527631.ts
-#EXTINF:-1 tvg-id="monepg.sky-sports.118883" tvg-name="Sky Sports Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12307.jpg?81291" group-title="HUB",Sky Sports Tennis
+#EXTINF:-1 tvg-id="monepg.tennis.119741" tvg-name="Sky Sports Tennis" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12307.jpg?81291" group-title="HUB",Sky Sports Tennis
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527629.ts
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",SportsGrid
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162676.ts
@@ -531,7 +532,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290336.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290335.ts
 #EXTINF:-1 tvg-id="monepg.tnt-sports.118867" tvg-name="TNT Sports 4" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="HUB",TNT Sports 4
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290334.ts
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="HUB",TUDN
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="HUB",TUDN
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161767.ts
 #EXTINF:-1 tvg-id="TennisChannel.us1" tvg-name="Tennis Channel" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15462.png?ver=40602" group-title="HUB",Tennis Channel
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162616.ts
@@ -549,7 +550,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162144.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162325.ts
 #EXTINF:-1 tvg-id="ACCNetwork.us12" tvg-name="ACC Network (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",ACC Network (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162135.ts
-#EXTINF:-1 tvg-id="AMC.us12" tvg-name="AMC (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",AMC (ALT)
+#EXTINF:-1 tvg-id="1327" tvg-name="AMC (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",AMC (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536997.ts
 #EXTINF:-1 tvg-id="AlJazeera.us" tvg-name="Al Jazeera English (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/218.jpg" group-title="BACKUP",Al Jazeera English (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/499085.ts
@@ -621,7 +622,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162018.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536774.ts
 #EXTINF:-1 tvg-id="foxsports.us" tvg-name="FOX Sports (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14331.png?ver=69659" group-title="BACKUP",FOX Sports (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1476388.ts
-#EXTINF:-1 tvg-id="FoxSports1.us12" tvg-name="FOX Sports 1 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",FOX Sports 1 (ALT)
+#EXTINF:-1 tvg-id="FoxSports1.us1" tvg-name="FOX Sports 1 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",FOX Sports 1 (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162003.ts
 #EXTINF:-1 tvg-id="FoxSports2.us12" tvg-name="FOX Sports 2 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",FOX Sports 2 (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162002.ts
@@ -723,7 +724,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325964.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161844.ts
 #EXTINF:-1 tvg-id="ShowtimeExtreme.us12" tvg-name="Showtime Extreme (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Showtime Extreme (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161843.ts
-#EXTINF:-1 tvg-id="ShowtimeShowcase.us1" tvg-name="Showtime Showcase (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Showtime Showcase (ALT)
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us12" tvg-name="Showtime Showcase (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Showtime Showcase (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161840.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.118706" tvg-name="Sky Atlantic (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6482.jpg?96615" group-title="BACKUP",Sky Atlantic (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/639185.ts
@@ -757,7 +758,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290234.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290241.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.118887" tvg-name="Sky Sports Mix (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12262.jpg?14889" group-title="BACKUP",Sky Sports Mix (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290238.ts
-#EXTINF:-1 tvg-id="monepg.sky-sports.118878" tvg-name="Sky Sports News (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12268.jpg?36647" group-title="BACKUP",Sky Sports News (ALT)
+#EXTINF:-1 tvg-id="monepg.tv-guide.118722" tvg-name="Sky Sports News (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12268.jpg?36647" group-title="BACKUP",Sky Sports News (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/588037.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.118888" tvg-name="Sky Sports Plus (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7872.jpg?50086" group-title="BACKUP",Sky Sports Plus (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/588042.ts
@@ -765,7 +766,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/588042.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290240.ts
 #EXTINF:-1 tvg-id="monepg.sky-sports.118882" tvg-name="Sky Sports Racing (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12265.jpg?37739" group-title="BACKUP",Sky Sports Racing (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290233.ts
-#EXTINF:-1 tvg-id="monepg.sky-sports.118883" tvg-name="Sky Sports Tennis (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12307.jpg?31976" group-title="BACKUP",Sky Sports Tennis (ALT)
+#EXTINF:-1 tvg-id="monepg.tennis.119741" tvg-name="Sky Sports Tennis (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12307.jpg?31976" group-title="BACKUP",Sky Sports Tennis (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1290232.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.118705" tvg-name="Sky Witness (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?34714" group-title="BACKUP",Sky Witness (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/162255.ts
@@ -799,7 +800,7 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527615.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1527613.ts
 #EXTINF:-1 tvg-id="monepg.tnt-sports.118867" tvg-name="TNT Sports 4 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",TNT Sports 4 (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1537390.ts
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN (ALT)" tvg-logo="http://picons.cmshulk.com/picons/552870.png" group-title="BACKUP",TUDN (ALT)
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN (ALT)" tvg-logo="http://picons.cmshulk.com/picons/552870.png" group-title="BACKUP",TUDN (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2095510.ts
 #EXTINF:-1 tvg-id="talktv.uk" tvg-name="Talk TV (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6275.jpg?29781" group-title="BACKUP",Talk TV (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/351803.ts
