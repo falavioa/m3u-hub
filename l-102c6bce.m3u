@@ -1,24 +1,20 @@
 #EXTM3U url-tvg="https://falavioa.github.io/m3u-hub/e-99dfd534.xml.gz" x-tvg-url="https://falavioa.github.io/m3u-hub/e-99dfd534.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="Lincoln City x Wolves" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",Lincoln City x Wolves
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113609.ts
-#EXTINF:-1 tvg-id="" tvg-name="Peterborough United x Cambridge United" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="0 · JOGOS DO DIA",Peterborough United x Cambridge United
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113668.ts
-#EXTINF:-1 tvg-id="" tvg-name="Peterborough United x Cambridge United [clube]" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="0 · JOGOS DO DIA",Peterborough United x Cambridge United [clube]
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113658.ts
-#EXTINF:-1 tvg-id="" tvg-name="Preston North End x Norwich City" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",Preston North End x Norwich City
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113614.ts
-#EXTINF:-1 tvg-id="" tvg-name="Preston North End x Norwich City [clube]" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",Preston North End x Norwich City [clube]
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113612.ts
-#EXTINF:-1 tvg-id="" tvg-name="Frosinone x Parma" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Frosinone x Parma
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501733.ts
 #EXTINF:-1 tvg-id="" tvg-name="Wrexham x Portsmouth" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",Wrexham x Portsmouth
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113624.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wrexham x Portsmouth [clube]" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",Wrexham x Portsmouth [clube]
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113613.ts
 #EXTINF:-1 tvg-id="" tvg-name="West Ham United x Stoke City" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",West Ham United x Stoke City
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113622.ts
+#EXTINF:-1 tvg-id="" tvg-name="West Ham United x Stoke City [clube]" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",West Ham United x Stoke City [clube]
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113618.ts
 #EXTINF:-1 tvg-id="" tvg-name="Walsall x Northampton Town" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="0 · JOGOS DO DIA",Walsall x Northampton Town
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113649.ts
+#EXTINF:-1 tvg-id="" tvg-name="Walsall x Northampton Town [clube]" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="0 · JOGOS DO DIA",Walsall x Northampton Town [clube]
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113640.ts
 #EXTINF:-1 tvg-id="" tvg-name="Millwall x Burnley" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",Millwall x Burnley
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113611.ts
+#EXTINF:-1 tvg-id="" tvg-name="Millwall x Burnley [clube]" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",Millwall x Burnley [clube]
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113625.ts
 #EXTINF:-1 tvg-id="" tvg-name="Torino x Lazio" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Torino x Lazio
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501727.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canada x Panama" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Canada x Panama

@@ -1,6 +1,16 @@
 #EXTM3U url-tvg="https://falavioa.github.io/m3u-hub/eb-3a744128.xml.gz" x-tvg-url="https://falavioa.github.io/m3u-hub/eb-3a744128.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="11:30 - Hamburgo x Bayern de Munique" tvg-logo="http://lgfp.one/OWH8" group-title="0 · JOGOS DO DIA",11:30 - Hamburgo x Bayern de Munique
+http://ftspl26.com/live/falavioa/xu1577/312840.ts
+#EXTINF:-1 tvg-id="" tvg-name="12:00 - Manchester United x Brentford" tvg-logo="http://lgfp.one/OWI0" group-title="0 · JOGOS DO DIA",12:00 - Manchester United x Brentford
+http://ftspl26.com/live/falavioa/xu1577/312842.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:45 - Inter de Milão x Genoa" tvg-logo="http://lgfp.one/OWI2" group-title="0 · JOGOS DO DIA",16:45 - Inter de Milão x Genoa
+http://ftspl26.com/live/falavioa/xu1577/312844.ts
+#EXTINF:-1 tvg-id="" tvg-name="16:45 - PSG x Lorient" tvg-logo="http://lgfp.one/OWI4" group-title="0 · JOGOS DO DIA",16:45 - PSG x Lorient
+http://ftspl26.com/live/falavioa/xu1577/312846.ts
 #EXTINF:-1 tvg-id="" tvg-name="17:00 - Palmeiras x Estudiantes" tvg-logo="http://lgfp.one/OWJ0" group-title="0 · JOGOS DO DIA",17:00 - Palmeiras x Estudiantes
 http://ftspl26.com/live/falavioa/xu1577/312852.ts
+#EXTINF:-1 tvg-id="" tvg-name="17:00 - Real Madrid x Alavés" tvg-logo="http://lgfp.one/OWI6" group-title="0 · JOGOS DO DIA",17:00 - Real Madrid x Alavés
+http://ftspl26.com/live/falavioa/xu1577/312848.ts
 #EXTINF:-1 tvg-id="" tvg-name="20:00 - Fortaleza x Criciúma" tvg-logo="http://lgfp.one/OWJ2" group-title="0 · JOGOS DO DIA",20:00 - Fortaleza x Criciúma
 http://ftspl26.com/live/falavioa/xu1577/312854.ts
 #EXTINF:-1 tvg-id="" tvg-name="21:00 - Botafogo x Bahia" tvg-logo="http://lgfp.one/OWJ4" group-title="0 · JOGOS DO DIA",21:00 - Botafogo x Bahia
