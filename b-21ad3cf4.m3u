@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://falavioa.github.io/m3u-hub/eb-3a744128.xml.gz" x-tvg-url="https://falavioa.github.io/m3u-hub/eb-3a744128.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="Jogos de Hoje" tvg-logo="http://lgfp.one/NMY2" group-title="0 · JOGOS DO DIA",Jogos de Hoje
-http://ftspl26.com/live/falavioa/xu1577/300155.ts
 #EXTINF:-1 tvg-id="" tvg-name="17:00 - Palmeiras x Estudiantes" tvg-logo="http://lgfp.one/OWJ0" group-title="0 · JOGOS DO DIA",17:00 - Palmeiras x Estudiantes
 http://ftspl26.com/live/falavioa/xu1577/312852.ts
 #EXTINF:-1 tvg-id="" tvg-name="20:00 - Fortaleza x Criciúma" tvg-logo="http://lgfp.one/OWJ2" group-title="0 · JOGOS DO DIA",20:00 - Fortaleza x Criciúma

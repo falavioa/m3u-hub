@@ -1,4 +1,30 @@
 #EXTM3U url-tvg="https://falavioa.github.io/m3u-hub/e-99dfd534.xml.gz" x-tvg-url="https://falavioa.github.io/m3u-hub/e-99dfd534.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="Lincoln City x Wolves" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Lincoln City x Wolves
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501736.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peterborough United x Cambridge United" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Peterborough United x Cambridge United
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501735.ts
+#EXTINF:-1 tvg-id="" tvg-name="Preston North End x Norwich City" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Preston North End x Norwich City
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501734.ts
+#EXTINF:-1 tvg-id="" tvg-name="Frosinone x Parma" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Frosinone x Parma
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501733.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wrexham x Portsmouth" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Wrexham x Portsmouth
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501732.ts
+#EXTINF:-1 tvg-id="" tvg-name="West Ham United x Stoke City" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",West Ham United x Stoke City
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501731.ts
+#EXTINF:-1 tvg-id="" tvg-name="Walsall x Northampton Town" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Walsall x Northampton Town
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501730.ts
+#EXTINF:-1 tvg-id="" tvg-name="Millwall x Burnley" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Millwall x Burnley
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501729.ts
+#EXTINF:-1 tvg-id="" tvg-name="Torino x Lazio" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Torino x Lazio
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501727.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canada x Panama" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Canada x Panama
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501726.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motherwell x Hibernian" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Motherwell x Hibernian
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501725.ts
+#EXTINF:-1 tvg-id="" tvg-name="Inter x Genoa" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Inter x Genoa
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mexico x Haiti" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Mexico x Haiti
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501723.ts
 # lista curada US/UK/LATAM — gerada em 28/11/2026 09:54
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us12" tvg-name="CBS Sports Network" tvg-chno="1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="1 · TOP",CBS Sports Network
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162087.ts
