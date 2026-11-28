@@ -1,26 +1,30 @@
 #EXTM3U url-tvg="https://falavioa.github.io/m3u-hub/e-99dfd534.xml.gz" x-tvg-url="https://falavioa.github.io/m3u-hub/e-99dfd534.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="Lincoln City x Wolves" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Lincoln City x Wolves
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501736.ts
-#EXTINF:-1 tvg-id="" tvg-name="Peterborough United x Cambridge United" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Peterborough United x Cambridge United
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501735.ts
-#EXTINF:-1 tvg-id="" tvg-name="Preston North End x Norwich City" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Preston North End x Norwich City
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501734.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lincoln City x Wolves" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",Lincoln City x Wolves
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113609.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peterborough United x Cambridge United" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="0 · JOGOS DO DIA",Peterborough United x Cambridge United
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peterborough United x Cambridge United [clube]" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="0 · JOGOS DO DIA",Peterborough United x Cambridge United [clube]
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113658.ts
+#EXTINF:-1 tvg-id="" tvg-name="Preston North End x Norwich City" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",Preston North End x Norwich City
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113614.ts
+#EXTINF:-1 tvg-id="" tvg-name="Preston North End x Norwich City [clube]" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",Preston North End x Norwich City [clube]
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113612.ts
 #EXTINF:-1 tvg-id="" tvg-name="Frosinone x Parma" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Frosinone x Parma
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501733.ts
-#EXTINF:-1 tvg-id="" tvg-name="Wrexham x Portsmouth" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Wrexham x Portsmouth
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501732.ts
-#EXTINF:-1 tvg-id="" tvg-name="West Ham United x Stoke City" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",West Ham United x Stoke City
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501731.ts
-#EXTINF:-1 tvg-id="" tvg-name="Walsall x Northampton Town" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Walsall x Northampton Town
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501730.ts
-#EXTINF:-1 tvg-id="" tvg-name="Millwall x Burnley" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Millwall x Burnley
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501729.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wrexham x Portsmouth" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",Wrexham x Portsmouth
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113624.ts
+#EXTINF:-1 tvg-id="" tvg-name="West Ham United x Stoke City" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",West Ham United x Stoke City
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113622.ts
+#EXTINF:-1 tvg-id="" tvg-name="Walsall x Northampton Town" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="0 · JOGOS DO DIA",Walsall x Northampton Town
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113649.ts
+#EXTINF:-1 tvg-id="" tvg-name="Millwall x Burnley" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="0 · JOGOS DO DIA",Millwall x Burnley
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113611.ts
 #EXTINF:-1 tvg-id="" tvg-name="Torino x Lazio" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Torino x Lazio
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501727.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canada x Panama" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Canada x Panama
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501726.ts
-#EXTINF:-1 tvg-id="" tvg-name="Motherwell x Hibernian" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Motherwell x Hibernian
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501725.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motherwell x Hibernian" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="0 · JOGOS DO DIA",Motherwell x Hibernian
+http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607104.ts
 #EXTINF:-1 tvg-id="" tvg-name="Inter x Genoa" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Inter x Genoa
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1501724.ts
 #EXTINF:-1 tvg-id="" tvg-name="Mexico x Haiti" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="0 · JOGOS DO DIA",Mexico x Haiti
@@ -782,54 +786,6 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162093.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/429909.ts
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us12" tvg-name="CBS Sports Network (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13622.png?ver=58093" group-title="BACKUP",CBS Sports Network (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/429939.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Birmingham City (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Birmingham City (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113602.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Blackburn Rovers (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Blackburn Rovers (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113603.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Bolton Wanderers (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Bolton Wanderers (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113604.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Bristol City (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Bristol City (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113605.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Burnley (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Burnley (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113625.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Cardiff City (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Cardiff City (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113606.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Charlton Athletic (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Charlton Athletic (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113607.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Derby County (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Derby County (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113608.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Lincoln City (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Lincoln City (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113609.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Middlesbrough (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Middlesbrough (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113610.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Millwall (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Millwall (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113611.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Norwich City (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Norwich City (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113612.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Portsmouth (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Portsmouth (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113613.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Preston North End (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Preston North End (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113614.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Queens Park Rangers (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Queens Park Rangers (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113615.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Sheffield United (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Sheffield United (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113616.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Southampton (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Southampton (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113617.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Stoke City (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Stoke City (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113618.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Swansea City (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Swansea City (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113619.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Watford (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Watford (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113620.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · West Bromwich Albion (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · West Bromwich Albion (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113621.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · West Ham United (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · West Ham United (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113622.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Wolverhampton Wanderers (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Wolverhampton Wanderers (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113623.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHAMPIONSHIP · Wrexham (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13713.png?ver=41688" group-title="BACKUP",CHAMPIONSHIP · Wrexham (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113624.ts
 #EXTINF:-1 tvg-id="CMT.us12" tvg-name="CMT (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",CMT (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2162075.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.119748" tvg-name="CNBC (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",CNBC (ALT)
@@ -932,102 +888,6 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/717717.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1536695.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.119407" tvg-name="Investigation Discovery (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Investigation Discovery (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161955.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Afc Wimbledon (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Afc Wimbledon (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113652.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Barnsley (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Barnsley (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113653.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Blackpool (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Blackpool (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113654.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Bradford City (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Bradford City (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113655.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Bromley (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Bromley (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113656.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Burton Albion (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Burton Albion (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113657.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Cambridge United (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Cambridge United (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113658.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Doncaster Rovers (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Doncaster Rovers (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113659.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Huddersfield Town (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Huddersfield Town (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113660.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Leicester City (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Leicester City (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113661.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Leyton Orient (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Leyton Orient (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113662.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Luton Town (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Luton Town (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113663.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Mansfield Town (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Mansfield Town (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113664.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Mk Dons (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Mk Dons (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113665.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Notts County (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Notts County (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113666.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Oxford United (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Oxford United (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113667.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Peterborough United (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Peterborough United (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113668.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Plymouth Argyle (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Plymouth Argyle (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113669.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Reading (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Reading (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113670.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Sheffield Wednesday (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Sheffield Wednesday (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113671.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Stevenage (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Stevenage (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113672.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Stockport County (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Stockport County (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113673.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Wigan Athletic (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Wigan Athletic (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113674.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE ONE · Wycombe Wanderers (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13712.png?ver=16566" group-title="BACKUP",LEAGUE ONE · Wycombe Wanderers (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113675.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Accrington Stanley (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Accrington Stanley (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113627.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Barnet (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Barnet (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113628.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Bristol Rovers (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Bristol Rovers (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113629.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Cheltenham Town (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Cheltenham Town (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113630.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Chesterfield (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Chesterfield (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113631.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Colchester United (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Colchester United (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113632.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Crawley Town (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Crawley Town (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113633.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Crewe Alexandra (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Crewe Alexandra (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113634.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Exeter City (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Exeter City (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113635.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Fleetwood Town (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Fleetwood Town (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113636.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Gillingham (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Gillingham (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113637.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Grimsby Town (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Grimsby Town (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113638.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Newport County (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Newport County (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113639.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Northampton Town (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Northampton Town (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113640.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Oldham Athletic (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Oldham Athletic (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113641.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Port Vale (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Port Vale (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113642.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Rochdale (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Rochdale (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113643.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Rotherham United (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Rotherham United (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113644.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Salford City (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Salford City (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113645.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Shrewsbury Town (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Shrewsbury Town (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113646.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Swindon Town (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Swindon Town (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113647.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Tranmere Rovers (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Tranmere Rovers (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113648.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · Walsall (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · Walsall (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113649.ts
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUE TWO · York City (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13711.png?ver=11345" group-title="BACKUP",LEAGUE TWO · York City (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113650.ts
 #EXTINF:-1 tvg-id="Lifetime.us12" tvg-name="Lifetime (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Lifetime (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161948.ts
 #EXTINF:-1 tvg-id="MGM+.us12" tvg-name="MGM+ (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="BACKUP",MGM+ (ALT)
@@ -1038,82 +898,6 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161929.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1847431.ts
 #EXTINF:-1 tvg-id="monepg.tv-guide.118714" tvg-name="MTV (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",MTV (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161915.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · 16 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · 16 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113584.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · 17 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · 17 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113583.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Altrincham x Wealdstone (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Altrincham x Wealdstone (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113596.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Boreham Wood x Aldershot (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Boreham Wood x Aldershot (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113599.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Boston x Scunthorpe (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Boston x Scunthorpe (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113587.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Brackley x Hereford (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Brackley x Hereford (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113594.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Carlisle x Tamworth (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Carlisle x Tamworth (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113591.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Dagenham & Redbridge x Tonbridge (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Dagenham & Redbridge x Tonbridge (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113589.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Eastleigh x Yeovil (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Eastleigh x Yeovil (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113595.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 18 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 18 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113582.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 19 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 19 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113581.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 20 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 20 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113580.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 21 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 21 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113579.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 22 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 22 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113578.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 23 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 23 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113577.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 24 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 24 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113576.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 25 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 25 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113575.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 26 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 26 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113574.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 27 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 27 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113573.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 28 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 28 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113572.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 29 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 29 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113571.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 30 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 30 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113570.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 31 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 31 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113569.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 32 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 32 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113568.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 33 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 33 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113567.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 34 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 34 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113566.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 35 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 35 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113565.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 36 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 36 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113564.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 37 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 37 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113563.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Event 38 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Event 38 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113562.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Forest Green x Southend (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Forest Green x Southend (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113590.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Harrogate x Kidderminster (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Harrogate x Kidderminster (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113598.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Hartlepool x Solihull Moors (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Hartlepool x Solihull Moors (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113597.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Hornchurch x Sutton (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Hornchurch x Sutton (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113593.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Kings Lynn x Radcliffe (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Kings Lynn x Radcliffe (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113588.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Maidstone United x Ebbsfleet United (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Maidstone United x Ebbsfleet United (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113586.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Morecambe x Darlington (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Morecambe x Darlington (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113585.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL LEAGUE · Woking x Worthing (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13721.png?ver=31020" group-title="BACKUP",NATIONAL LEAGUE · Woking x Worthing (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2113592.ts
 #EXTINF:-1 tvg-id="NBAtv.us12" tvg-name="NBA TV (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",NBA TV (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161907.ts
 #EXTINF:-1 tvg-id="wnbc.us" tvg-name="NBC 4 New York (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",NBC 4 New York (ALT)
@@ -1146,46 +930,8 @@ http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/324978.ts
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161879.ts
 #EXTINF:-1 tvg-id="ReelzChannel.us12" tvg-name="Reelz (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="BACKUP",Reelz (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/1520109.ts
-#EXTINF:-1 tvg-id="" tvg-name="SCOTTISH CUP · 2 (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273" group-title="BACKUP",SCOTTISH CUP · 2 (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/912040.ts
-#EXTINF:-1 tvg-id="" tvg-name="SCOTTISH CUP · Buckie Thistle x Dundee United (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273" group-title="BACKUP",SCOTTISH CUP · Buckie Thistle x Dundee United (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/912036.ts
-#EXTINF:-1 tvg-id="" tvg-name="SCOTTISH CUP · Celtic Dunfermline (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273" group-title="BACKUP",SCOTTISH CUP · Celtic Dunfermline (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/912041.ts
-#EXTINF:-1 tvg-id="" tvg-name="SCOTTISH CUP · Celtic x Hibernian (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273" group-title="BACKUP",SCOTTISH CUP · Celtic x Hibernian (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/912039.ts
-#EXTINF:-1 tvg-id="" tvg-name="SCOTTISH CUP · Dundee United x Ayr United (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273" group-title="BACKUP",SCOTTISH CUP · Dundee United x Ayr United (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/912035.ts
-#EXTINF:-1 tvg-id="" tvg-name="SCOTTISH CUP · Dundee x Airdrieonians (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273" group-title="BACKUP",SCOTTISH CUP · Dundee x Airdrieonians (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/912038.ts
-#EXTINF:-1 tvg-id="" tvg-name="SCOTTISH CUP · Spartans x Ross County (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13787.png?ver=45273" group-title="BACKUP",SCOTTISH CUP · Spartans x Ross County (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/912037.ts
 #EXTINF:-1 tvg-id="SECNetwork.us12" tvg-name="SEC Network (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",SEC Network (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/2161847.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPFL · Aberdeen Fc (Reds Tv) (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="BACKUP",SPFL · Aberdeen Fc (Reds Tv) (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607097.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPFL · Celtic Tv (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="BACKUP",SPFL · Celtic Tv (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607098.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPFL · Dundee (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="BACKUP",SPFL · Dundee (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607099.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPFL · Hearts Fc (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="BACKUP",SPFL · Hearts Fc (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607100.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPFL · Hibs Fc (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="BACKUP",SPFL · Hibs Fc (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607101.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPFL · Kilimarnock Fc (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="BACKUP",SPFL · Kilimarnock Fc (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607102.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPFL · Livingston Fc (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="BACKUP",SPFL · Livingston Fc (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607103.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPFL · Motherwell Fc (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="BACKUP",SPFL · Motherwell Fc (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607104.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPFL · Rangers Tv (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="BACKUP",SPFL · Rangers Tv (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607105.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPFL · Ross County Fc (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="BACKUP",SPFL · Ross County Fc (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607106.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPFL · St. Johnstone Fc (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="BACKUP",SPFL · St. Johnstone Fc (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607107.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPFL · St. Mirren Fc (liga)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13710.jpg?ver=70601" group-title="BACKUP",SPFL · St. Mirren Fc (liga)
-http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/607108.ts
 #EXTINF:-1 tvg-id="1333" tvg-name="Showtime (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?20531" group-title="BACKUP",Showtime (ALT)
 http://tv.business-cdn-8k.com/live/60b1432143/0e2e4f30dc/325964.ts
 #EXTINF:-1 tvg-id="Showtime2.us12" tvg-name="Showtime 2 (ALT)" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14619.PNG?ver=83605" group-title="BACKUP",Showtime 2 (ALT)
